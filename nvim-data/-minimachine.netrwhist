@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='C:/Users/Andre/workspace/unity/Vongolas/Assets/Components/Player'
+let g:netrw_dirhist_7='C:/Users/Andre/workspace/unity/Vongolas/Assets/Components'
+let g:netrw_dirhist_6='C:/Users/Andre/workspace/unity/Vongolas/Assets'
+let g:netrw_dirhist_5='C:\Users\Andre\workspace\unity\Vongolas'
+let g:netrw_dirhist_4='C:/Users/Andre/OneDrive/Shared'
+let g:netrw_dirhist_3='C:/Users/Andre/OneDrive'
+let g:netrw_dirhist_2='C:\Users\Andre'
+let g:netrw_dirhist_1='C:\Intel'
