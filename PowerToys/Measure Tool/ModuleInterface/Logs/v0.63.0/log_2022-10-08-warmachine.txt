@@ -1,0 +1,2 @@
+[2022-10-08 16:53:47.597992] [p-5772] [t-7780] [info] Measure Tool logger is initialized
+[2022-10-08 16:57:13.883561] [p-13660] [t-6396] [info] Measure Tool logger is initialized

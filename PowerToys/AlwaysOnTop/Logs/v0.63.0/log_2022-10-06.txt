@@ -1,0 +1,1 @@
+[2022-10-06 15:34:10.398374] [p-10828] [t-11860] [info] always-on-top logger is initialized

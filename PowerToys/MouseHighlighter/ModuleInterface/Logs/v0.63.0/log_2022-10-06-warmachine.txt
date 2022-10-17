@@ -1,0 +1,12 @@
+[2022-10-06 15:34:08.744824] [p-10884] [t-11928] [info] mouse-highlighter logger is initialized
+[2022-10-06 15:34:08.745801] [p-10884] [t-11928] [info] Mouse Highlighter settings are empty
+[2022-10-06 15:34:08.745808] [p-10884] [t-11928] [info] Mouse Highlighter is going to use default shortcut
+[2022-10-06 15:34:35.559823] [p-10884] [t-7008] [info] Starting a highlighter instance.
+[2022-10-06 15:34:35.640166] [p-10884] [t-7008] [info] Initialized the highlighter instance.
+[2022-10-06 15:39:03.239926] [p-10884] [t-11928] [info] Switching activation mode.
+[2022-10-06 15:39:03.240075] [p-10884] [t-7008] [info] Starting draw mode.
+[2022-10-06 15:39:09.983193] [p-10884] [t-11928] [info] Switching activation mode.
+[2022-10-06 15:39:09.983386] [p-10884] [t-7008] [info] Stopping draw mode.
+[2022-10-06 16:39:32.909184] [p-14476] [t-2280] [info] mouse-highlighter logger is initialized
+[2022-10-06 16:39:33.452063] [p-14476] [t-10868] [info] Starting a highlighter instance.
+[2022-10-06 16:39:33.488319] [p-14476] [t-10868] [info] Initialized the highlighter instance.

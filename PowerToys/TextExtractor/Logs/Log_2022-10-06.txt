@@ -1,0 +1,6 @@
+INFO: 15:34:41.7686270
+    [Method]: Application_Startup [Class]: App
+    TextExtractor started from the PowerToys Runner. Runner pid=10884
+INFO: 15:34:46.5354398
+    [Method]: LoadSettingsFromJson [Class]: UserSettings
+    TextExtractor settings.json was missing, creating a new one

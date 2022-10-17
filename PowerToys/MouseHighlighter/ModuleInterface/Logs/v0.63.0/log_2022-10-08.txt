@@ -1,0 +1,3 @@
+[2022-10-08 15:53:41.275953] [p-9668] [t-7252] [info] mouse-highlighter logger is initialized
+[2022-10-08 15:53:41.845607] [p-9668] [t-4380] [info] Starting a highlighter instance.
+[2022-10-08 15:53:41.850358] [p-9668] [t-4380] [info] Initialized the highlighter instance.

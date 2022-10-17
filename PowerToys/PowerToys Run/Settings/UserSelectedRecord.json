@@ -1,0 +1,112 @@
+{
+  "Records": {
+    "control : Run command": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-10-06T21:45:28.1440766Z",
+      "Title": "control",
+      "Search": "control",
+      "Score": 0,
+      "SubTitle": "Run command",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Terminal : Packaged application": {
+      "SelectedCount": 27,
+      "LastSelected": "2022-10-16T02:49:14.9653766Z",
+      "Title": "Terminal",
+      "Search": "terminal",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Microsoft Edge : Application": {
+      "SelectedCount": 17,
+      "LastSelected": "2022-10-16T02:51:02.6563019Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
+      "Title": "Microsoft Edge",
+      "Search": "edge",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Discord : Application": {
+      "SelectedCount": 6,
+      "LastSelected": "2022-10-13T02:46:36.4015012Z",
+      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+      "Title": "Discord",
+      "Search": "dis",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Visual Studio Code : Application": {
+      "SelectedCount": 4,
+      "LastSelected": "2022-10-13T02:57:57.0286202Z",
+      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+      "Title": "Visual Studio Code",
+      "Search": "code",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "ipconfig : Shell: execute command through command shell": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-10-07T18:07:23.6181801Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\Shell\\Images/shell.dark.png",
+      "Title": "ipconfig",
+      "Search": "ipconfig",
+      "Score": 0,
+      "SubTitle": "Shell: execute command through command shell",
+      "PluginID": "D409510CD0D2481F853690A07E6DC426"
+    },
+    "Unity Hub : Application": {
+      "SelectedCount": 5,
+      "LastSelected": "2022-10-15T14:11:04.4774178Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Unity Hub.lnk",
+      "Title": "Unity Hub",
+      "Search": "hub",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "www.youtube.com : Search the web in Microsoft Edge": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-10-07T21:05:12.7069446Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\WebSearch\\Images/WebSearch.dark.png",
+      "Title": "www.youtube.com",
+      "Search": "www.youtube.com",
+      "Score": 0,
+      "SubTitle": "Search the web in Microsoft Edge",
+      "PluginID": "9F1B49201C3F4BF781CAAD5CD88EA4DC"
+    },
+    "HP Support Assistant : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-10-12T02:38:37.0816162Z",
+      "IconPath": "C:\\Users\\Public\\Desktop\\HP Support Assistant.lnk",
+      "Title": "HP Support Assistant",
+      "Search": "hp su",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Display : System settings  \u02C3  Ease of access": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-10-12T02:48:20.0409482Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\WindowsSettings\\Images/WindowsSettings.dark.png",
+      "Title": "Display",
+      "Search": "disp",
+      "Score": 0,
+      "SubTitle": "System settings  \u02C3  Ease of access",
+      "PluginID": "5043CECEE6A748679CBE02D27D83747A"
+    },
+    "shutdown : Shell: execute command through command shell": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-10-12T02:58:52.5036641Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\Shell\\Images/shell.dark.png",
+      "Title": "shutdown",
+      "Search": "shutdown",
+      "Score": 0,
+      "SubTitle": "Shell: execute command through command shell",
+      "PluginID": "D409510CD0D2481F853690A07E6DC426"
+    }
+  }
+}

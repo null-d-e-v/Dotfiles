@@ -1,0 +1,27 @@
+[2022-10-06 15:34:08.527806] [p-10884] [t-11928] [info] find-my-mouse logger is initialized
+[2022-10-06 15:34:08.528974] [p-10884] [t-11928] [info] Find My Mouse settings are empty
+[2022-10-06 15:34:11.378494] [p-10884] [t-12332] [info] Starting a sonar instance.
+[2022-10-06 15:34:11.467607] [p-10884] [t-12332] [info] Initialized the sonar instance.
+[2022-10-06 15:38:35.154380] [p-10884] [t-12332] [info] Detecting double left control click with 3109 ms interval.
+[2022-10-06 15:39:33.922853] [p-10884] [t-11928] [info] Applying settings.
+[2022-10-06 15:39:34.858439] [p-10884] [t-12332] [info] Focusing the sonar on the mouse cursor.
+[2022-10-06 15:39:40.655408] [p-10884] [t-11928] [info] Applying settings.
+[2022-10-06 15:39:44.052143] [p-10884] [t-12332] [info] Detecting double left control click with 1188 ms interval.
+[2022-10-06 15:39:45.069970] [p-10884] [t-12332] [info] Detecting double left control click with 1031 ms interval.
+[2022-10-06 15:39:45.825485] [p-10884] [t-12332] [info] Detecting double left control click with 750 ms interval.
+[2022-10-06 15:39:45.998549] [p-10884] [t-12332] [info] Focusing the sonar on the mouse cursor.
+[2022-10-06 15:39:46.001206] [p-10884] [t-12332] [info] Detecting double left control click with 172 ms interval.
+[2022-10-06 15:39:48.939348] [p-10884] [t-12332] [info] Detecting double left control click with 187 ms interval.
+[2022-10-06 15:39:49.942862] [p-10884] [t-12332] [info] Detecting double left control click with 1016 ms interval.
+[2022-10-06 15:39:50.126452] [p-10884] [t-12332] [info] Focusing the sonar on the mouse cursor.
+[2022-10-06 15:39:50.128868] [p-10884] [t-12332] [info] Detecting double left control click with 172 ms interval.
+[2022-10-06 15:39:53.807141] [p-10884] [t-11928] [info] Applying settings.
+[2022-10-06 15:40:01.930228] [p-10884] [t-12332] [info] Focusing the sonar on the mouse cursor.
+[2022-10-06 15:40:03.648132] [p-10884] [t-11928] [info] Applying settings.
+[2022-10-06 16:44:07.868718] [p-11944] [t-13948] [info] find-my-mouse logger is initialized
+[2022-10-06 16:44:11.095415] [p-11944] [t-11376] [info] Starting a sonar instance.
+[2022-10-06 16:44:11.157773] [p-11944] [t-11376] [info] Initialized the sonar instance.
+[2022-10-06 16:44:40.650708] [p-11944] [t-11376] [info] Focusing the sonar on the mouse cursor.
+[2022-10-06 16:44:40.668739] [p-11944] [t-11376] [info] Detecting double left control click with 157 ms interval.
+[2022-10-06 16:44:41.552264] [p-11944] [t-11376] [info] Focusing the sonar on the mouse cursor.
+[2022-10-06 16:44:41.554553] [p-11944] [t-11376] [info] Detecting double left control click with 313 ms interval.

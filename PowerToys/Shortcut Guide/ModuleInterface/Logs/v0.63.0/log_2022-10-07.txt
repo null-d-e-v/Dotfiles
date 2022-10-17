@@ -1,0 +1,15 @@
+[2022-10-07 13:05:09.446456] [p-4420] [t-8008] [info] shortcut-guide logger is initialized
+[2022-10-07 13:05:09.459842] [p-4420] [t-8008] [trace] GetHotkeyEx()
+[2022-10-07 13:05:10.460105] [p-4420] [t-8008] [info] Shortcut Guide is enabling
+[2022-10-07 13:05:10.460118] [p-4420] [t-8008] [trace] GetHotkeyEx()
+[2022-10-07 13:06:17.523978] [p-4420] [t-8008] [info] ShortcutGuideModule::disable()
+[2022-10-07 13:06:59.424357] [p-6580] [t-932] [info] shortcut-guide logger is initialized
+[2022-10-07 13:06:59.431219] [p-6580] [t-932] [trace] GetHotkeyEx()
+[2022-10-07 13:06:59.657400] [p-6580] [t-932] [info] Shortcut Guide is enabling
+[2022-10-07 13:06:59.657412] [p-6580] [t-932] [trace] GetHotkeyEx()
+[2022-10-07 20:24:35.623578] [p-6540] [t-9928] [info] shortcut-guide logger is initialized
+[2022-10-07 20:24:35.629035] [p-6540] [t-9928] [trace] GetHotkeyEx()
+[2022-10-07 20:24:36.968574] [p-6540] [t-9928] [info] Shortcut Guide is enabling
+[2022-10-07 20:24:36.968585] [p-6540] [t-9928] [trace] GetHotkeyEx()
+[2022-10-07 20:24:36.982672] [p-6540] [t-10224] [trace] Send settings telemetry
+[2022-10-07 20:24:37.031931] [p-6540] [t-10224] [trace] Started SG process with pid=18572

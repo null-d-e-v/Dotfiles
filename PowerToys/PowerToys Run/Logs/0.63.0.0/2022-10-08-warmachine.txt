@@ -1,0 +1,327 @@
+[2022-10-08 16:54:24.1380] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::54]
+Starting PowerToys Run with PID=7324
+
+[2022-10-08 16:54:25.4543] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::59]
+Runner pid=5772
+
+[2022-10-08 16:54:58.4211] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::101]
+On Startup.
+
+[2022-10-08 16:55:01.6619] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+ImageLoader.Initialize - Preload images cost <173ms>
+
+[2022-10-08 16:55:01.6686] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Image\ImageLoader.cs::69]
+Number of preload images is <0>, Images Number: 4, Unique Items 4
+
+[2022-10-08 16:55:03.4491] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Calculator> is <4ms>
+
+[2022-10-08 16:55:03.7015] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Folder> is <152ms>
+
+[2022-10-08 16:55:03.8035] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <History> is <2ms>
+
+[2022-10-08 16:55:03.9050] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Indexer> is <3ms>
+
+[2022-10-08 16:55:03.9743] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <OneNote> is <1ms>
+
+[2022-10-08 16:55:04.8055] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Program> is <634ms>
+
+[2022-10-08 16:55:04.9145] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Registry> is <2ms>
+
+[2022-10-08 16:55:05.1590] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Service> is <161ms>
+
+[2022-10-08 16:55:05.3799] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Shell> is <118ms>
+
+[2022-10-08 16:55:05.7067] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <System Commands> is <89ms>
+
+[2022-10-08 16:55:05.8386] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Time and date> is <2ms>
+
+[2022-10-08 16:55:06.0174] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Time zone> is <2ms>
+
+[2022-10-08 16:55:06.1354] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Unit Converter> is <1ms>
+
+[2022-10-08 16:55:06.2290] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Uri Handler> is <6ms>
+
+[2022-10-08 16:55:06.7929] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <VS Code Workspaces> is <423ms>
+
+[2022-10-08 16:55:06.8866] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Web Search> is <5ms>
+
+[2022-10-08 16:55:07.0776] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Settings> is <2ms>
+
+[2022-10-08 16:55:07.2372] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Terminal> is <49ms>
+
+[2022-10-08 16:55:07.6624] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Window Walker> is <262ms>
+
+[2022-10-08 16:55:10.1966] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\SettingsReader.cs::88]
+Successfully read new settings. retryCount=1
+
+[2022-10-08 16:55:10.2824] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Shell> is <119ms>
+
+[2022-10-08 16:55:10.2846] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Calculator> is <8ms>
+
+[2022-10-08 16:55:10.2846] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <System Commands> is <90ms>
+
+[2022-10-08 16:55:10.2846] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Time and date> is <2ms>
+
+[2022-10-08 16:55:10.2846] [WARN] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\Common\DefaultBrowserInfo.cs::73]
+I've tried updating the chosen Web Browser info at least once.
+
+[2022-10-08 16:55:10.2846] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Uri Handler> is <10ms>
+
+[2022-10-08 16:55:10.2846] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Unit Converter> is <6ms>
+
+[2022-10-08 16:55:10.2846] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Web Search> is <5ms>
+
+[2022-10-08 16:55:10.3008] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Window Walker> is <262ms>
+
+[2022-10-08 16:55:10.3445] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Time zone> is <60ms>
+
+[2022-10-08 16:55:10.3822] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Settings> is <85ms>
+
+[2022-10-08 16:55:19.1926] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\ShellLinkHelper.cs::170]
+-------------------------- Begin exception --------------------------
+Message: Failed to fetch description for C:\PROGRA~2\WINDOW~4\wmplayer.exe, Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception stack trace:
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.IShellLinkW.GetDescription(StringBuilder pszName, Int32 cchMaxName)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+Exception source     : Microsoft.Plugin.Program
+Exception target site: Void GetDescription(System.Text.StringBuilder, Int32)
+Exception HResult    : -2147467259
+-------------------------- End exception --------------------------
+
+
+[2022-10-08 16:55:19.1926] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\ShellLinkHelper.cs::170]
+-------------------------- Begin exception --------------------------
+Message: Failed to fetch description for C:\Windows\syswow64\odbcad32.exe, Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception stack trace:
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.IShellLinkW.GetDescription(StringBuilder pszName, Int32 cchMaxName)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+Exception source     : Microsoft.Plugin.Program
+Exception target site: Void GetDescription(System.Text.StringBuilder, Int32)
+Exception HResult    : -2147467259
+-------------------------- End exception --------------------------
+
+
+[2022-10-08 16:55:20.4424] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\UWPApplication.cs::366]
+-------------------------- Begin exception --------------------------
+Message: 	Error status: KNOWN
+		Program path: C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_0.66.2.0_x64__8wekyb3d8bbwe
+		Exception thrown in called method: Not available
+		Possible interpretation of the error: Load pri failed @{MicrosoftCorporationII.WindowsSubsystemForLinux_0.66.2.0_x64__8wekyb3d8bbwe? ms-resource:///resources/AppDescription} with HResult 2147957527 and location C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_0.66.2.0_x64__8wekyb3d8bbwe
+		Possible resolution: Can be ignored and PowerToys Run should still continue, however the program may not be loaded
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : NamedResource Not Found. (0x80073B17)
+Exception stack trace:
+
+Exception source     : 
+Exception target site: 
+Exception HResult    : -2147009769
+-------------------------- End exception --------------------------
+
+
+[2022-10-08 16:55:25.6680] [INFO] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Storage\PackageRepository.cs::80]
+Indexed 35 packaged applications
+
+[2022-10-08 16:55:25.6680] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+Microsoft.Plugin.Program.Main - Package index cost <15391ms>
+
+[2022-10-08 16:56:10.1414] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::90]
+Runner with pid=5772 exited. Exiting PowerToys Run
+
+[2022-10-08 16:57:15.9420] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::54]
+Starting PowerToys Run with PID=5064
+
+[2022-10-08 16:57:16.1932] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::59]
+Runner pid=13660
+
+[2022-10-08 16:57:18.0600] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::101]
+On Startup.
+
+[2022-10-08 16:57:18.5074] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+ImageLoader.Initialize - Preload images cost <73ms>
+
+[2022-10-08 16:57:18.5206] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Image\ImageLoader.cs::69]
+Number of preload images is <0>, Images Number: 4, Unique Items 4
+
+[2022-10-08 16:57:18.9362] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Calculator> is <10ms>
+
+[2022-10-08 16:57:18.9598] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Folder> is <18ms>
+
+[2022-10-08 16:57:18.9714] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <History> is <6ms>
+
+[2022-10-08 16:57:18.9877] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Indexer> is <11ms>
+
+[2022-10-08 16:57:18.9980] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <OneNote> is <2ms>
+
+[2022-10-08 16:57:19.1550] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Program> is <153ms>
+
+[2022-10-08 16:57:19.1739] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Registry> is <3ms>
+
+[2022-10-08 16:57:19.1739] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Service> is <4ms>
+
+[2022-10-08 16:57:19.2080] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Shell> is <22ms>
+
+[2022-10-08 16:57:19.2159] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <System Commands> is <4ms>
+
+[2022-10-08 16:57:19.2159] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Time and date> is <3ms>
+
+[2022-10-08 16:57:19.2159] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Time zone> is <3ms>
+
+[2022-10-08 16:57:19.2338] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Unit Converter> is <2ms>
+
+[2022-10-08 16:57:19.2338] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Uri Handler> is <6ms>
+
+[2022-10-08 16:57:19.3439] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <VS Code Workspaces> is <98ms>
+
+[2022-10-08 16:57:19.3439] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Web Search> is <2ms>
+
+[2022-10-08 16:57:19.3439] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Settings> is <3ms>
+
+[2022-10-08 16:57:19.3659] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Windows Terminal> is <7ms>
+
+[2022-10-08 16:57:19.5758] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::126]
+Load cost for <Window Walker> is <206ms>
+
+[2022-10-08 16:57:20.3872] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\SettingsReader.cs::88]
+Successfully read new settings. retryCount=1
+
+[2022-10-08 16:57:20.4717] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Calculator> is <14ms>
+
+[2022-10-08 16:57:20.4833] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Shell> is <22ms>
+
+[2022-10-08 16:57:20.4833] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Unit Converter> is <2ms>
+
+[2022-10-08 16:57:20.4833] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <System Commands> is <7ms>
+
+[2022-10-08 16:57:20.5015] [WARN] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\Common\DefaultBrowserInfo.cs::73]
+I've tried updating the chosen Web Browser info at least once.
+
+[2022-10-08 16:57:20.5015] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Uri Handler> is <22ms>
+
+[2022-10-08 16:57:20.5015] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Web Search> is <2ms>
+
+[2022-10-08 16:57:20.5393] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Time and date> is <51ms>
+
+[2022-10-08 16:57:20.6312] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Windows Settings> is <124ms>
+
+[2022-10-08 16:57:20.6312] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Window Walker> is <207ms>
+
+[2022-10-08 16:57:20.6598] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Plugin\PluginPair.cs::55]
+Total initialize cost for <Time zone> is <120ms>
+
+[2022-10-08 16:57:25.9838] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\UWPApplication.cs::366]
+-------------------------- Begin exception --------------------------
+Message: 	Error status: KNOWN
+		Program path: C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_0.66.2.0_x64__8wekyb3d8bbwe
+		Exception thrown in called method: Not available
+		Possible interpretation of the error: Load pri failed @{MicrosoftCorporationII.WindowsSubsystemForLinux_0.66.2.0_x64__8wekyb3d8bbwe? ms-resource:///resources/AppDescription} with HResult 2147957527 and location C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_0.66.2.0_x64__8wekyb3d8bbwe
+		Possible resolution: Can be ignored and PowerToys Run should still continue, however the program may not be loaded
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : NamedResource Not Found. (0x80073B17)
+Exception stack trace:
+
+Exception source     : 
+Exception target site: 
+Exception HResult    : -2147009769
+-------------------------- End exception --------------------------
+
+
+[2022-10-08 16:57:27.9155] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\ShellLinkHelper.cs::170]
+-------------------------- Begin exception --------------------------
+Message: Failed to fetch description for C:\PROGRA~2\WINDOW~4\wmplayer.exe, Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception stack trace:
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.IShellLinkW.GetDescription(StringBuilder pszName, Int32 cchMaxName)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+Exception source     : Microsoft.Plugin.Program
+Exception target site: Void GetDescription(System.Text.StringBuilder, Int32)
+Exception HResult    : -2147467259
+-------------------------- End exception --------------------------
+
+
+[2022-10-08 16:57:27.9393] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Programs\ShellLinkHelper.cs::170]
+-------------------------- Begin exception --------------------------
+Message: Failed to fetch description for C:\Windows\syswow64\odbcad32.exe, Error HRESULT E_FAIL has been returned from a call to a COM component.
+
+Exception full name  : System.Runtime.InteropServices.COMException
+Exception message    : Error HRESULT E_FAIL has been returned from a call to a COM component.
+Exception stack trace:
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.IShellLinkW.GetDescription(StringBuilder pszName, Int32 cchMaxName)
+   at Microsoft.Plugin.Program.Programs.ShellLinkHelper.RetrieveTargetPath(String path)
+Exception source     : Microsoft.Plugin.Program
+Exception target site: Void GetDescription(System.Text.StringBuilder, Int32)
+Exception HResult    : -2147467259
+-------------------------- End exception --------------------------
+
+
+[2022-10-08 16:57:28.2819] [INFO] [C:\a\_work\1\s\src\modules\launcher\Plugins\Microsoft.Plugin.Program\Storage\PackageRepository.cs::80]
+Indexed 35 packaged applications
+
+[2022-10-08 16:57:28.3079] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+Microsoft.Plugin.Program.Main - Package index cost <7828ms>
+

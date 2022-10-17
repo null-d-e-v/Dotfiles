@@ -1,0 +1,9 @@
+INFO: 15:53:43.6047752
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=8048
+INFO: 15:53:48.6441905
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=9668
+INFO: 21:25:04.1350461
+    [Method]: <OnStartup>b__13_0 [Class]: App
+    PowerToys Runner exited. Exiting ColorPicker

@@ -1,0 +1,350 @@
+[2022-10-06 15:34:05.237276] [p-13280] [t-13104] [info] runner logger is initialized
+[2022-10-06 15:34:05.237333] [p-13280] [t-13104] [info] Running powertoys with cmd args: --dont-elevate
+[2022-10-06 15:34:05.238847] [p-13280] [t-13104] [info] apply_general_settings: {}
+[2022-10-06 15:34:05.238869] [p-13280] [t-13104] [info] Scheduling restart as non elevated
+[2022-10-06 15:34:05.239048] [p-13280] [t-13104] [info] run_non_elevated with params=
+[2022-10-06 15:34:05.302742] [p-10884] [t-11928] [info] runner logger is initialized
+[2022-10-06 15:34:05.302814] [p-10884] [t-11928] [info] Running powertoys with cmd args: 
+[2022-10-06 15:34:05.303803] [p-10884] [t-11928] [info] apply_general_settings: {}
+[2022-10-06 15:34:05.303864] [p-10884] [t-11928] [info] Runner is starting. Elevated=false
+[2022-10-06 15:34:05.459873] [p-10884] [t-11928] [trace] UnRegister hotkey action for FancyZones
+[2022-10-06 15:34:05.586180] [p-10884] [t-11928] [trace] UnRegister hotkey action for File Explorer
+[2022-10-06 15:34:05.708401] [p-10884] [t-11928] [trace] UnRegister hotkey action for Image Resizer
+[2022-10-06 15:34:05.888711] [p-10884] [t-11928] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-10-06 15:34:06.272832] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:34:06.272851] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:34:06.958672] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerRename
+[2022-10-06 15:34:07.057014] [p-10884] [t-11928] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-10-06 15:34:07.334196] [p-10884] [t-11928] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-06 15:34:07.334209] [p-10884] [t-11928] [trace] Register hotkey action for ColorPicker
+[2022-10-06 15:34:07.438729] [p-10884] [t-11928] [trace] UnRegister hotkey action for Awake
+[2022-10-06 15:34:08.528994] [p-10884] [t-11928] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-06 15:34:08.745819] [p-10884] [t-11928] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-10-06 15:34:09.076460] [p-10884] [t-11928] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-10-06 15:34:09.076475] [p-10884] [t-11928] [trace] Register hotkey action for AlwaysOnTop
+[2022-10-06 15:34:09.185268] [p-10884] [t-11928] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-06 15:34:09.304831] [p-10884] [t-11928] [trace] UnRegister hotkey action for QuickAccent
+[2022-10-06 15:34:09.418076] [p-10884] [t-11928] [trace] UnRegister hotkey action for TextExtractor
+[2022-10-06 15:34:09.418090] [p-10884] [t-11928] [trace] Register hotkey action for TextExtractor
+[2022-10-06 15:34:09.575803] [p-10884] [t-11928] [trace] UnRegister hotkey action for Measure Tool
+[2022-10-06 15:34:09.575816] [p-10884] [t-11928] [trace] Register hotkey action for Measure Tool
+[2022-10-06 15:34:09.911233] [p-10884] [t-11928] [trace] UnRegister hotkey action for Video Conference
+[2022-10-06 15:34:09.911480] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy AlwaysOnTop
+[2022-10-06 15:34:10.335287] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy Awake
+[2022-10-06 15:34:10.641723] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-10-06 15:34:10.834084] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy FancyZones
+[2022-10-06 15:34:11.353134] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-10-06 15:34:11.353150] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-10-06 15:34:11.353354] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy Image Resizer
+[2022-10-06 15:34:34.904883] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-10-06 15:34:35.496538] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy Measure Tool
+[2022-10-06 15:34:35.496558] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-10-06 15:34:35.497985] [p-10884] [t-11928] [trace] shift+win+H shortcut registered
+[2022-10-06 15:34:35.498002] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy PowerRename
+[2022-10-06 15:34:35.679222] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-10-06 15:34:35.840474] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-10-06 15:34:35.841025] [p-10884] [t-11928] [trace] shift+win+/ shortcut registered
+[2022-10-06 15:34:35.841139] [p-10884] [t-11928] [info] start_enabled_powertoys: Enabling powertoy TextExtractor
+[2022-10-06 15:34:44.374708] [p-10960] [t-6304] [info] runner logger is initialized
+[2022-10-06 15:34:44.374746] [p-10960] [t-6304] [info] Running powertoys with cmd args: 
+[2022-10-06 15:34:44.375325] [p-10960] [t-6304] [error] Can't convert string value= to ESettingsWindowNames
+[2022-10-06 15:35:44.527261] [p-10884] [t-11928] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:39:03.239867] [p-10884] [t-11928] [trace] On shift+win+H hotkey
+[2022-10-06 15:39:03.239922] [p-10884] [t-11928] [trace] MouseHighlighter hotkey Ex is invoked from Centralized keyboard hook
+[2022-10-06 15:39:09.983132] [p-10884] [t-11928] [trace] On shift+win+H hotkey
+[2022-10-06 15:39:09.983189] [p-10884] [t-11928] [trace] MouseHighlighter hotkey Ex is invoked from Centralized keyboard hook
+[2022-10-06 15:39:17.177451] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":true,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":true,"MousePointerCrosshairs":true,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:39:17.366825] [p-10884] [t-11928] [info] apply_general_settings: Enabling powertoy MousePointerCrosshairs
+[2022-10-06 15:39:17.367043] [p-10884] [t-11928] [trace] win+alt+P shortcut registered
+[2022-10-06 15:39:17.407202] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:17.408277] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:17.529242] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:39:17.543969] [p-10884] [t-11928] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-06 15:39:17.544958] [p-10884] [t-11928] [trace] win+alt+P shortcut unregistered
+[2022-10-06 15:39:17.546110] [p-10884] [t-11928] [trace] win+alt+P shortcut registered
+[2022-10-06 15:39:17.559237] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:17.559606] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:17.610104] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:39:20.494785] [p-10884] [t-11928] [trace] On win+alt+P hotkey
+[2022-10-06 15:39:20.494830] [p-10884] [t-11928] [trace] MousePointerCrosshairs hotkey Ex is invoked from Centralized keyboard hook
+[2022-10-06 15:39:23.367608] [p-10884] [t-11928] [trace] On win+alt+P hotkey
+[2022-10-06 15:39:23.367710] [p-10884] [t-11928] [trace] MousePointerCrosshairs hotkey Ex is invoked from Centralized keyboard hook
+[2022-10-06 15:39:25.127179] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":true,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":true,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:39:25.226249] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy MousePointerCrosshairs
+[2022-10-06 15:39:25.228128] [p-10884] [t-11928] [trace] win+alt+P shortcut unregistered
+[2022-10-06 15:39:25.311448] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:25.311810] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:25.393778] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:39:25.426010] [p-10884] [t-11928] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-06 15:39:25.495654] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:25.496153] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:25.543683] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:39:33.923030] [p-10884] [t-11928] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-06 15:39:33.928463] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:33.928775] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:33.953774] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:39:40.655621] [p-10884] [t-11928] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-06 15:39:40.677396] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:40.677682] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:40.716268] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:39:53.807310] [p-10884] [t-11928] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-06 15:39:53.823198] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:39:53.823443] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:39:53.853972] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:03.648283] [p-10884] [t-11928] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-06 15:40:03.658664] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:03.658981] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:03.685858] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:46.267714] [p-10884] [t-11928] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-06 15:40:46.267764] [p-10884] [t-11928] [trace] Register hotkey action for ColorPicker
+[2022-10-06 15:40:46.277152] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:46.277449] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:46.300866] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:52.695361] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":true,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:40:52.769482] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy AlwaysOnTop
+[2022-10-06 15:40:52.786563] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:52.786848] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:52.807730] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:56.340184] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:40:56.459536] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy Awake
+[2022-10-06 15:40:56.477758] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:56.478055] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:56.526524] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:56.538334] [p-10884] [t-11928] [trace] UnRegister hotkey action for Awake
+[2022-10-06 15:40:56.546007] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:56.546315] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:56.619251] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:58.046259] [p-10884] [t-11928] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-06 15:40:58.046283] [p-10884] [t-11928] [trace] Register hotkey action for ColorPicker
+[2022-10-06 15:40:58.054376] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:58.054593] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:58.073014] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:40:59.256948] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":false,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:40:59.337097] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy ColorPicker
+[2022-10-06 15:40:59.373220] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:40:59.373448] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:40:59.408793] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:41:01.228097] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:41:01.315847] [p-10884] [t-11928] [info] apply_general_settings: Enabling powertoy ColorPicker
+[2022-10-06 15:41:01.393388] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:41:01.393806] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:41:01.425412] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:41:04.710422] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":false,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:41:04.885454] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy FancyZones
+[2022-10-06 15:41:05.005691] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:41:05.006197] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:41:05.070599] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:41:13.260903] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":false,"Image Resizer":false,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:41:13.359743] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy Image Resizer
+[2022-10-06 15:41:13.380275] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:41:13.383580] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:41:13.408533] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:41:24.179279] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:46:14.705278] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:14.705325] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:14.728039] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:14.728302] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:14.752923] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:27.092669] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:27.092724] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:27.108041] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:27.108386] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:27.140799] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:27.153856] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:27.153874] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:27.158701] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:27.158949] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:27.188443] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:27.206824] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:27.206841] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:27.212151] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:27.212406] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:27.240303] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:27.256784] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:27.256801] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:27.263396] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:27.263733] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:27.292028] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:28.161900] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:28.161924] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:28.176098] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:28.176343] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:28.196330] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:28.213910] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:28.213928] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:28.228440] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:28.228676] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:28.263288] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:28.284202] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:28.284218] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:28.300511] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:28.300757] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:28.340257] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:28.357384] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:28.357482] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:28.375195] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:28.375437] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:28.408568] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:33.551338] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:33.551392] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:33.576443] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:33.576721] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:33.610110] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:33.628935] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:33.628953] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:33.652153] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:33.652384] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:33.678435] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:33.697133] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:33.697150] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:33.704626] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:33.705106] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:33.739348] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:33.751850] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:33.751868] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:33.759234] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:33.759487] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:33.791091] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:39.293647] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:39.293695] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:39.339628] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:39.339876] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:39.372580] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:39.388978] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:39.389001] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:39.408416] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:39.408670] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:39.441052] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:39.456647] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:39.456664] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:39.476130] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:39.476407] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:39.507624] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:46:39.524739] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:46:39.524758] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:46:39.547271] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:46:39.547578] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:46:39.572479] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:47:04.307698] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:47:52.116179] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:48:26.162569] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:26.162616] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:26.171744] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:26.172018] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:26.201356] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:48:26.212676] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:26.212696] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:26.221816] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:26.222279] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:26.257260] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:48:44.041290] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:44.041331] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:44.069881] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:44.070114] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:44.090482] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:48:44.101849] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:44.101868] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:44.108170] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:44.108423] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:44.129858] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:48:47.254928] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:47.254984] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:47.285289] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:47.285520] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:47.312643] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:48:53.692850] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:53.692911] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:53.720586] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:53.720837] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:53.744261] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:48:53.756557] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:48:53.756574] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:48:53.761370] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:48:53.761913] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:48:53.788555] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:49:08.534622] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:49:08.534691] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:49:08.545759] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:49:08.545992] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:49:08.569338] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:49:08.579595] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:49:08.579612] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:49:08.588023] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:49:08.588262] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:49:08.618670] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:49:19.349831] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:49:59.180917] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":false,"Image Resizer":false,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":false,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":true,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:49:59.302933] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy PowerRename
+[2022-10-06 15:49:59.346096] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:49:59.346367] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:49:59.374074] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:49:59.376036] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerRename
+[2022-10-06 15:49:59.386414] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:49:59.386609] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:49:59.407677] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:50:10.305946] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":false,"Image Resizer":false,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":false,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":false,"Measure Tool":true},"download_updates_automatically":true}
+[2022-10-06 15:50:10.392540] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy TextExtractor
+[2022-10-06 15:50:10.411599] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:50:10.411914] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:50:10.454680] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:50:14.074578] [p-10884] [t-11928] [info] apply_general_settings: {"startup":true,"is_elevated":false,"run_elevated":false,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0","action_name":"request_update_state_date","enabled":{"FancyZones":false,"Image Resizer":false,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":false,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":false,"MousePointerCrosshairs":false,"QuickAccent":false,"TextExtractor":false,"Measure Tool":false},"download_updates_automatically":true}
+[2022-10-06 15:50:14.145036] [p-10884] [t-11928] [info] apply_general_settings: Disabling powertoy Measure Tool
+[2022-10-06 15:50:14.158434] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:50:14.158746] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:50:14.179418] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 15:51:44.432753] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:52:28.101071] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:52:47.185103] [p-10884] [t-11928] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-10-06 15:52:50.921163] [p-7472] [t-12448] [info] runner logger is initialized
+[2022-10-06 15:52:50.921191] [p-7472] [t-12448] [info] Running powertoys with cmd args: 
+[2022-10-06 15:52:50.921551] [p-7472] [t-12448] [error] Can't convert string value= to ESettingsWindowNames
+[2022-10-06 15:53:35.092018] [p-10884] [t-11928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 15:53:35.092058] [p-10884] [t-11928] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 15:53:35.101763] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-10-06 15:53:35.103383] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-10-06 15:53:35.136485] [p-10884] [t-11928] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-10-06 16:39:32.266223] [p-14476] [t-2280] [info] runner logger is initialized
+[2022-10-06 16:39:32.266294] [p-14476] [t-2280] [info] Running powertoys with cmd args: 
+[2022-10-06 16:39:32.311145] [p-14476] [t-2280] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":false,"Awake":false,"ColorPicker":true,"FancyZones":false,"File Explorer":true,"FindMyMouse":true,"Image Resizer":false,"Keyboard Manager":true,"Measure Tool":false,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":false,"PowerToys Run":true,"QuickAccent":false,"Shortcut Guide":true,"TextExtractor":false,"Video Conference":false},"is_elevated":false,"run_elevated":false,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0"}
+[2022-10-06 16:39:32.432373] [p-14476] [t-2280] [info] Runner is starting. Elevated=false
+[2022-10-06 16:39:32.511729] [p-14476] [t-2280] [trace] UnRegister hotkey action for FancyZones
+[2022-10-06 16:39:32.680146] [p-14476] [t-2280] [trace] UnRegister hotkey action for File Explorer
+[2022-10-06 16:39:32.773056] [p-14476] [t-2280] [trace] UnRegister hotkey action for Image Resizer
+[2022-10-06 16:39:32.779041] [p-14476] [t-2280] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-10-06 16:39:32.838321] [p-14476] [t-2280] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-06 16:39:32.838335] [p-14476] [t-2280] [trace] Register hotkey action for PowerToys Run
+[2022-10-06 16:39:32.848283] [p-14476] [t-2280] [trace] UnRegister hotkey action for PowerRename
+[2022-10-06 16:39:32.857241] [p-14476] [t-2280] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-10-06 16:39:32.868250] [p-14476] [t-2280] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-06 16:39:32.868264] [p-14476] [t-2280] [trace] Register hotkey action for ColorPicker
+[2022-10-06 16:39:32.873297] [p-14476] [t-2280] [trace] UnRegister hotkey action for Awake
+[2022-10-06 16:39:32.901942] [p-14476] [t-2280] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-06 16:39:32.937053] [p-14476] [t-2280] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-10-06 16:39:32.978568] [p-14476] [t-2280] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-10-06 16:39:32.978582] [p-14476] [t-2280] [trace] Register hotkey action for AlwaysOnTop
+[2022-10-06 16:39:33.024223] [p-14476] [t-2280] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-06 16:39:33.030258] [p-14476] [t-2280] [trace] UnRegister hotkey action for QuickAccent
+[2022-10-06 16:39:33.038627] [p-14476] [t-2280] [trace] UnRegister hotkey action for TextExtractor
+[2022-10-06 16:39:33.038642] [p-14476] [t-2280] [trace] Register hotkey action for TextExtractor
+[2022-10-06 16:39:33.047896] [p-14476] [t-2280] [trace] UnRegister hotkey action for Measure Tool
+[2022-10-06 16:39:33.047911] [p-14476] [t-2280] [trace] Register hotkey action for Measure Tool
+[2022-10-06 16:39:33.086020] [p-14476] [t-2280] [trace] UnRegister hotkey action for Video Conference
+[2022-10-06 16:39:33.087172] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy QuickAccent explicitly disabled
+[2022-10-06 16:39:33.087305] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy PowerRename explicitly disabled
+[2022-10-06 16:39:33.087323] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-10-06 16:39:33.087328] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-10-06 16:39:33.087333] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy AlwaysOnTop explicitly disabled
+[2022-10-06 16:39:33.087337] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy FancyZones explicitly disabled
+[2022-10-06 16:39:33.087346] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy Awake explicitly disabled
+[2022-10-06 16:39:33.087349] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy Measure Tool explicitly disabled
+[2022-10-06 16:39:33.087356] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy TextExtractor explicitly disabled
+[2022-10-06 16:39:33.094064] [p-14476] [t-2280] [info] start_enabled_powertoys: Powertoy Image Resizer explicitly disabled
+[2022-10-06 16:39:33.094081] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-10-06 16:39:33.335569] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-10-06 16:39:33.335587] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-10-06 16:39:33.335737] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-10-06 16:39:33.451354] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-10-06 16:39:33.451727] [p-14476] [t-2280] [trace] shift+win+H shortcut registered
+[2022-10-06 16:39:33.451781] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-10-06 16:39:33.532213] [p-14476] [t-2280] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-10-06 16:39:33.532592] [p-14476] [t-2280] [trace] shift+win+/ shortcut registered

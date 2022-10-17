@@ -1,0 +1,136 @@
+[2022-10-07 13:05:08.848940] [p-4420] [t-8008] [info] runner logger is initialized
+[2022-10-07 13:05:08.848955] [p-4420] [t-8008] [info] Running powertoys with cmd args: 
+[2022-10-07 13:05:08.864427] [p-4420] [t-8008] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":false,"Awake":false,"ColorPicker":true,"FancyZones":false,"File Explorer":true,"FindMyMouse":true,"Image Resizer":false,"Keyboard Manager":true,"Measure Tool":false,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":false,"PowerToys Run":true,"QuickAccent":false,"Shortcut Guide":true,"TextExtractor":false,"Video Conference":false},"is_elevated":false,"run_elevated":false,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0"}
+[2022-10-07 13:05:08.924498] [p-4420] [t-8008] [info] Runner is starting. Elevated=false
+[2022-10-07 13:05:09.094415] [p-4420] [t-8008] [trace] UnRegister hotkey action for FancyZones
+[2022-10-07 13:05:09.164796] [p-4420] [t-8008] [trace] UnRegister hotkey action for File Explorer
+[2022-10-07 13:05:09.231813] [p-4420] [t-8008] [trace] UnRegister hotkey action for Image Resizer
+[2022-10-07 13:05:09.288843] [p-4420] [t-8008] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-10-07 13:05:09.328652] [p-4420] [t-8008] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-07 13:05:09.328659] [p-4420] [t-8008] [trace] Register hotkey action for PowerToys Run
+[2022-10-07 13:05:09.419136] [p-4420] [t-8008] [trace] UnRegister hotkey action for PowerRename
+[2022-10-07 13:05:09.459829] [p-4420] [t-8008] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-10-07 13:05:09.618495] [p-4420] [t-8008] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-07 13:05:09.618505] [p-4420] [t-8008] [trace] Register hotkey action for ColorPicker
+[2022-10-07 13:05:09.707415] [p-4420] [t-8008] [trace] UnRegister hotkey action for Awake
+[2022-10-07 13:05:09.783343] [p-4420] [t-8008] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-07 13:05:09.819233] [p-4420] [t-8008] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-10-07 13:05:09.848632] [p-4420] [t-8008] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-10-07 13:05:09.848642] [p-4420] [t-8008] [trace] Register hotkey action for AlwaysOnTop
+[2022-10-07 13:05:09.885436] [p-4420] [t-8008] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-07 13:05:09.925883] [p-4420] [t-8008] [trace] UnRegister hotkey action for QuickAccent
+[2022-10-07 13:05:09.983802] [p-4420] [t-8008] [trace] UnRegister hotkey action for TextExtractor
+[2022-10-07 13:05:09.983810] [p-4420] [t-8008] [trace] Register hotkey action for TextExtractor
+[2022-10-07 13:05:10.044886] [p-4420] [t-8008] [trace] UnRegister hotkey action for Measure Tool
+[2022-10-07 13:05:10.044897] [p-4420] [t-8008] [trace] Register hotkey action for Measure Tool
+[2022-10-07 13:05:10.278179] [p-4420] [t-8008] [trace] UnRegister hotkey action for Video Conference
+[2022-10-07 13:05:10.278571] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy QuickAccent explicitly disabled
+[2022-10-07 13:05:10.278578] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy PowerRename explicitly disabled
+[2022-10-07 13:05:10.278582] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-10-07 13:05:10.278586] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-10-07 13:05:10.278590] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy AlwaysOnTop explicitly disabled
+[2022-10-07 13:05:10.278593] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy FancyZones explicitly disabled
+[2022-10-07 13:05:10.278598] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy Awake explicitly disabled
+[2022-10-07 13:05:10.278599] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy Measure Tool explicitly disabled
+[2022-10-07 13:05:10.278601] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy TextExtractor explicitly disabled
+[2022-10-07 13:05:10.281539] [p-4420] [t-8008] [info] start_enabled_powertoys: Powertoy Image Resizer explicitly disabled
+[2022-10-07 13:05:10.281547] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-10-07 13:05:10.377729] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-10-07 13:05:10.377738] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-10-07 13:05:10.377835] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-10-07 13:05:10.426458] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-10-07 13:05:10.426575] [p-4420] [t-8008] [trace] shift+win+H shortcut registered
+[2022-10-07 13:05:10.426581] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-10-07 13:05:10.460096] [p-4420] [t-8008] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-10-07 13:05:10.460165] [p-4420] [t-8008] [trace] shift+win+/ shortcut registered
+[2022-10-07 13:06:58.987881] [p-6580] [t-932] [info] runner logger is initialized
+[2022-10-07 13:06:58.987899] [p-6580] [t-932] [info] Running powertoys with cmd args: 
+[2022-10-07 13:06:59.017052] [p-6580] [t-932] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":false,"Awake":false,"ColorPicker":true,"FancyZones":false,"File Explorer":true,"FindMyMouse":true,"Image Resizer":false,"Keyboard Manager":true,"Measure Tool":false,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":false,"PowerToys Run":true,"QuickAccent":false,"Shortcut Guide":true,"TextExtractor":false,"Video Conference":false},"is_elevated":false,"run_elevated":false,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0"}
+[2022-10-07 13:06:59.083553] [p-6580] [t-932] [info] Runner is starting. Elevated=false
+[2022-10-07 13:06:59.113600] [p-6580] [t-932] [trace] UnRegister hotkey action for FancyZones
+[2022-10-07 13:06:59.153119] [p-6580] [t-932] [trace] UnRegister hotkey action for File Explorer
+[2022-10-07 13:06:59.169044] [p-6580] [t-932] [trace] UnRegister hotkey action for Image Resizer
+[2022-10-07 13:06:59.172497] [p-6580] [t-932] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-10-07 13:06:59.406713] [p-6580] [t-932] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-07 13:06:59.406724] [p-6580] [t-932] [trace] Register hotkey action for PowerToys Run
+[2022-10-07 13:06:59.420264] [p-6580] [t-932] [trace] UnRegister hotkey action for PowerRename
+[2022-10-07 13:06:59.431207] [p-6580] [t-932] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-10-07 13:06:59.441589] [p-6580] [t-932] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-07 13:06:59.441597] [p-6580] [t-932] [trace] Register hotkey action for ColorPicker
+[2022-10-07 13:06:59.444122] [p-6580] [t-932] [trace] UnRegister hotkey action for Awake
+[2022-10-07 13:06:59.457740] [p-6580] [t-932] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-07 13:06:59.466058] [p-6580] [t-932] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-10-07 13:06:59.473873] [p-6580] [t-932] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-10-07 13:06:59.473882] [p-6580] [t-932] [trace] Register hotkey action for AlwaysOnTop
+[2022-10-07 13:06:59.482622] [p-6580] [t-932] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-07 13:06:59.485557] [p-6580] [t-932] [trace] UnRegister hotkey action for QuickAccent
+[2022-10-07 13:06:59.495292] [p-6580] [t-932] [trace] UnRegister hotkey action for TextExtractor
+[2022-10-07 13:06:59.495301] [p-6580] [t-932] [trace] Register hotkey action for TextExtractor
+[2022-10-07 13:06:59.506427] [p-6580] [t-932] [trace] UnRegister hotkey action for Measure Tool
+[2022-10-07 13:06:59.506435] [p-6580] [t-932] [trace] Register hotkey action for Measure Tool
+[2022-10-07 13:06:59.528846] [p-6580] [t-932] [trace] UnRegister hotkey action for Video Conference
+[2022-10-07 13:06:59.529381] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy QuickAccent explicitly disabled
+[2022-10-07 13:06:59.529388] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy PowerRename explicitly disabled
+[2022-10-07 13:06:59.529390] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-10-07 13:06:59.529391] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-10-07 13:06:59.529393] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy AlwaysOnTop explicitly disabled
+[2022-10-07 13:06:59.529394] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy FancyZones explicitly disabled
+[2022-10-07 13:06:59.529398] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy Awake explicitly disabled
+[2022-10-07 13:06:59.529399] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy Measure Tool explicitly disabled
+[2022-10-07 13:06:59.529402] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy TextExtractor explicitly disabled
+[2022-10-07 13:06:59.529509] [p-6580] [t-932] [info] start_enabled_powertoys: Powertoy Image Resizer explicitly disabled
+[2022-10-07 13:06:59.529513] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-10-07 13:06:59.603896] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-10-07 13:06:59.603907] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-10-07 13:06:59.603993] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-10-07 13:06:59.628074] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-10-07 13:06:59.628233] [p-6580] [t-932] [trace] shift+win+H shortcut registered
+[2022-10-07 13:06:59.628255] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-10-07 13:06:59.657389] [p-6580] [t-932] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-10-07 13:06:59.657472] [p-6580] [t-932] [trace] shift+win+/ shortcut registered
+[2022-10-07 20:24:34.160293] [p-6540] [t-9928] [info] runner logger is initialized
+[2022-10-07 20:24:34.160451] [p-6540] [t-9928] [info] Running powertoys with cmd args: 
+[2022-10-07 20:24:34.422499] [p-6540] [t-9928] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":false,"Awake":false,"ColorPicker":true,"FancyZones":false,"File Explorer":true,"FindMyMouse":true,"Image Resizer":false,"Keyboard Manager":true,"Measure Tool":false,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":false,"PowerToys Run":true,"QuickAccent":false,"Shortcut Guide":true,"TextExtractor":false,"Video Conference":false},"is_elevated":false,"run_elevated":false,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"dark","powertoys_version":"v0.63.0"}
+[2022-10-07 20:24:34.544703] [p-6540] [t-9928] [info] Runner is starting. Elevated=false
+[2022-10-07 20:24:35.068276] [p-6540] [t-9928] [trace] UnRegister hotkey action for FancyZones
+[2022-10-07 20:24:35.431643] [p-6540] [t-9928] [trace] UnRegister hotkey action for File Explorer
+[2022-10-07 20:24:35.477324] [p-6540] [t-9928] [trace] UnRegister hotkey action for Image Resizer
+[2022-10-07 20:24:35.503697] [p-6540] [t-9928] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-10-07 20:24:35.543544] [p-6540] [t-9928] [trace] UnRegister hotkey action for PowerToys Run
+[2022-10-07 20:24:35.543552] [p-6540] [t-9928] [trace] Register hotkey action for PowerToys Run
+[2022-10-07 20:24:35.602292] [p-6540] [t-9928] [trace] UnRegister hotkey action for PowerRename
+[2022-10-07 20:24:35.629012] [p-6540] [t-9928] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-10-07 20:24:35.658124] [p-6540] [t-9928] [trace] UnRegister hotkey action for ColorPicker
+[2022-10-07 20:24:35.658131] [p-6540] [t-9928] [trace] Register hotkey action for ColorPicker
+[2022-10-07 20:24:35.681145] [p-6540] [t-9928] [trace] UnRegister hotkey action for Awake
+[2022-10-07 20:24:35.720096] [p-6540] [t-9928] [trace] UnRegister hotkey action for FindMyMouse
+[2022-10-07 20:24:35.788671] [p-6540] [t-9928] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-10-07 20:24:35.886541] [p-6540] [t-9928] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-10-07 20:24:35.886551] [p-6540] [t-9928] [trace] Register hotkey action for AlwaysOnTop
+[2022-10-07 20:24:35.944209] [p-6540] [t-9928] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-10-07 20:24:36.530802] [p-6540] [t-9928] [trace] UnRegister hotkey action for QuickAccent
+[2022-10-07 20:24:36.696453] [p-6540] [t-9928] [trace] UnRegister hotkey action for TextExtractor
+[2022-10-07 20:24:36.696460] [p-6540] [t-9928] [trace] Register hotkey action for TextExtractor
+[2022-10-07 20:24:36.737486] [p-6540] [t-9928] [trace] UnRegister hotkey action for Measure Tool
+[2022-10-07 20:24:36.737493] [p-6540] [t-9928] [trace] Register hotkey action for Measure Tool
+[2022-10-07 20:24:36.800783] [p-6540] [t-9928] [trace] UnRegister hotkey action for Video Conference
+[2022-10-07 20:24:36.801059] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy QuickAccent explicitly disabled
+[2022-10-07 20:24:36.801063] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy PowerRename explicitly disabled
+[2022-10-07 20:24:36.801064] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-10-07 20:24:36.801066] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-10-07 20:24:36.801067] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy AlwaysOnTop explicitly disabled
+[2022-10-07 20:24:36.801069] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy FancyZones explicitly disabled
+[2022-10-07 20:24:36.801076] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy Awake explicitly disabled
+[2022-10-07 20:24:36.801078] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy Measure Tool explicitly disabled
+[2022-10-07 20:24:36.801080] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy TextExtractor explicitly disabled
+[2022-10-07 20:24:36.803692] [p-6540] [t-9928] [info] start_enabled_powertoys: Powertoy Image Resizer explicitly disabled
+[2022-10-07 20:24:36.803699] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-10-07 20:24:36.869135] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-10-07 20:24:36.869144] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-10-07 20:24:36.869196] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-10-07 20:24:36.917610] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-10-07 20:24:36.917686] [p-6540] [t-9928] [trace] shift+win+H shortcut registered
+[2022-10-07 20:24:36.917689] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-10-07 20:24:36.968566] [p-6540] [t-9928] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-10-07 20:24:36.968853] [p-6540] [t-9928] [trace] shift+win+/ shortcut registered
+[2022-10-07 20:24:37.273262] [p-6540] [t-18392] [trace] Version is up to date

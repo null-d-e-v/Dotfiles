@@ -1,0 +1,1 @@
+[2022-10-16 19:53:16.074558] [p-13788] [t-7436] [info] keyboard-manager logger is initialized

@@ -1,0 +1,27 @@
+INFO: 09:05:50.7441055
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=13528
+INFO: 09:05:53.9248180
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=6040
+INFO: 09:05:56.5401537
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 10:17:21.7858759
+    [Method]: <OnStartup>b__13_0 [Class]: App
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 10:23:29.2768121
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=2448
+INFO: 10:24:02.9776556
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=7808
+INFO: 10:49:48.5050212
+    [Method]: <OnStartup>b__13_0 [Class]: App
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 19:44:20.5830814
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=7688
+INFO: 19:44:23.7348660
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=6304

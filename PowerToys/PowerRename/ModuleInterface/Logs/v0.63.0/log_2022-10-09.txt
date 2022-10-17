@@ -1,0 +1,1 @@
+[2022-10-09 11:45:06.699082] [p-17060] [t-7068] [info] powerrename logger is initialized

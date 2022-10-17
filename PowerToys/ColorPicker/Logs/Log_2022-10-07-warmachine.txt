@@ -1,0 +1,12 @@
+INFO: 12:18:30.2202657
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=12888
+INFO: 12:20:33.5988806
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=8360
+INFO: 12:59:44.0846388
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 12:59:44.0865858
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

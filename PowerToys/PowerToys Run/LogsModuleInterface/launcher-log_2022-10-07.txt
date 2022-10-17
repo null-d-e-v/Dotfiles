@@ -1,0 +1,25 @@
+[2022-10-07 13:05:09.319339] [p-4420] [t-8008] [info] launcher logger is initialized
+[2022-10-07 13:05:09.319355] [p-4420] [t-8008] [info] Launcher object is constructing
+[2022-10-07 13:05:09.328607] [p-4420] [t-8008] [info] PT Run settings are empty
+[2022-10-07 13:05:09.328612] [p-4420] [t-8008] [info] PT Run is going to use default shortcut
+[2022-10-07 13:05:10.426584] [p-4420] [t-8008] [info] Microsoft_Launcher::enable() begin
+[2022-10-07 13:05:10.426620] [p-4420] [t-8008] [trace] Signaled exitEvent
+[2022-10-07 13:05:10.426644] [p-4420] [t-8008] [trace] Starting PowerToys Run from not elevated process
+[2022-10-07 13:05:10.460074] [p-4420] [t-8008] [trace] Started PowerToys Run
+[2022-10-07 13:05:10.460084] [p-4420] [t-8008] [info] Microsoft_Launcher::enable() end
+[2022-10-07 13:06:17.524036] [p-4420] [t-8008] [info] Launcher object is destroying
+[2022-10-07 13:06:59.176522] [p-6580] [t-932] [info] launcher logger is initialized
+[2022-10-07 13:06:59.176547] [p-6580] [t-932] [info] Launcher object is constructing
+[2022-10-07 13:06:59.628258] [p-6580] [t-932] [info] Microsoft_Launcher::enable() begin
+[2022-10-07 13:06:59.628297] [p-6580] [t-932] [trace] Signaled exitEvent
+[2022-10-07 13:06:59.628321] [p-6580] [t-932] [trace] Starting PowerToys Run from not elevated process
+[2022-10-07 13:06:59.657364] [p-6580] [t-932] [trace] Started PowerToys Run
+[2022-10-07 13:06:59.657376] [p-6580] [t-932] [info] Microsoft_Launcher::enable() end
+[2022-10-07 20:24:35.533010] [p-6540] [t-9928] [info] launcher logger is initialized
+[2022-10-07 20:24:35.533026] [p-6540] [t-9928] [info] Launcher object is constructing
+[2022-10-07 20:24:36.917690] [p-6540] [t-9928] [info] Microsoft_Launcher::enable() begin
+[2022-10-07 20:24:36.917719] [p-6540] [t-9928] [trace] Signaled exitEvent
+[2022-10-07 20:24:36.917734] [p-6540] [t-9928] [trace] Starting PowerToys Run from not elevated process
+[2022-10-07 20:24:36.968541] [p-6540] [t-9928] [trace] Started PowerToys Run
+[2022-10-07 20:24:36.968550] [p-6540] [t-9928] [info] Microsoft_Launcher::enable() end
+[2022-10-07 20:24:36.982662] [p-6540] [t-10224] [info] Send settings telemetry

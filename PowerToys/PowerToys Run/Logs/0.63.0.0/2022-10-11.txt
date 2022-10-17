@@ -1,0 +1,318 @@
+[2022-10-11 21:23:12.1725] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:23:14.1486] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 103 milliseconds
+
+[2022-10-11 21:23:14.1903] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 145 milliseconds
+
+[2022-10-11 21:23:14.3809] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 216 milliseconds
+
+[2022-10-11 21:23:14.3979] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 233 milliseconds
+
+[2022-10-11 21:23:14.4688] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 67 milliseconds
+
+[2022-10-11 21:23:14.4884] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 86 milliseconds
+
+[2022-10-11 21:23:14.4884] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 91 milliseconds
+
+[2022-10-11 21:23:14.7552] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 52 milliseconds
+
+[2022-10-11 21:23:15.2311] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 52 milliseconds
+
+[2022-10-11 21:23:15.2413] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 63 milliseconds
+
+[2022-10-11 21:23:15.4287] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 181 milliseconds
+
+[2022-10-11 21:23:15.4385] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 190 milliseconds
+
+[2022-10-11 21:23:15.4633] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 210 milliseconds
+
+[2022-10-11 21:23:15.5798] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 63 milliseconds
+
+[2022-10-11 21:23:16.0763] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Calculator. Query cost - 559 milliseconds
+
+[2022-10-11 21:23:17.2103] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 120 milliseconds
+
+[2022-10-11 21:23:17.2182] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 128 milliseconds
+
+[2022-10-11 21:23:17.3085] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 210 milliseconds
+
+[2022-10-11 21:23:17.5727] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 146 milliseconds
+
+[2022-10-11 21:23:17.5727] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 147 milliseconds
+
+[2022-10-11 21:23:17.9900] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 95 milliseconds
+
+[2022-10-11 21:23:18.0101] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 58 milliseconds
+
+[2022-10-11 21:23:18.0165] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 122 milliseconds
+
+[2022-10-11 21:23:18.0165] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 72 milliseconds
+
+[2022-10-11 21:23:18.6907] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 53 milliseconds
+
+[2022-10-11 21:23:18.6907] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 59 milliseconds
+
+[2022-10-11 21:23:18.8858] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 52 milliseconds
+
+[2022-10-11 21:23:18.9002] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 67 milliseconds
+
+[2022-10-11 21:23:18.9584] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 57 milliseconds
+
+[2022-10-11 21:33:11.3126] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\MainWindow.xaml.cs::135]
+Reload environment: Updating environment variables for PT Run's process
+
+[2022-10-11 21:33:11.3686] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+EnvironmentHelper.UpdateEnvironment - Duration cost <50ms>
+
+[2022-10-11 21:35:14.9034] [ERROR] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\ListRepository`1.cs::54]
+Item Already Exists <HP Support Assistant.lnk>
+
+[2022-10-11 21:38:34.5963] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:38:35.5055] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 55 milliseconds
+
+[2022-10-11 21:38:35.5208] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 69 milliseconds
+
+[2022-10-11 21:38:35.8628] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 59 milliseconds
+
+[2022-10-11 21:38:35.8628] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 67 milliseconds
+
+[2022-10-11 21:38:36.0501] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 61 milliseconds
+
+[2022-10-11 21:38:36.0621] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 73 milliseconds
+
+[2022-10-11 21:38:36.3992] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 130 milliseconds
+
+[2022-10-11 21:38:36.4139] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 144 milliseconds
+
+[2022-10-11 21:40:32.7974] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:40:33.2943] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Calculator. Query cost - 186 milliseconds
+
+[2022-10-11 21:40:33.3342] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 224 milliseconds
+
+[2022-10-11 21:40:33.3342] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 227 milliseconds
+
+[2022-10-11 21:40:33.5157] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 56 milliseconds
+
+[2022-10-11 21:40:33.5157] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 59 milliseconds
+
+[2022-10-11 21:40:33.7691] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 56 milliseconds
+
+[2022-10-11 21:40:33.7691] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 61 milliseconds
+
+[2022-10-11 21:48:11.8622] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:48:13.5575] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 51 milliseconds
+
+[2022-10-11 21:48:13.5575] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 52 milliseconds
+
+[2022-10-11 21:48:13.8477] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 59 milliseconds
+
+[2022-10-11 21:48:13.8609] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 72 milliseconds
+
+[2022-10-11 21:48:13.8767] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 77 milliseconds
+
+[2022-10-11 21:48:14.4721] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 52 milliseconds
+
+[2022-10-11 21:48:14.6128] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 52 milliseconds
+
+[2022-10-11 21:48:14.6128] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 60 milliseconds
+
+[2022-10-11 21:48:15.0605] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 68 milliseconds
+
+[2022-10-11 21:48:15.0605] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 77 milliseconds
+
+[2022-10-11 21:48:15.5590] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 54 milliseconds
+
+[2022-10-11 21:48:15.5629] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 58 milliseconds
+
+[2022-10-11 21:48:15.6415] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 63 milliseconds
+
+[2022-10-11 21:48:15.6415] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 67 milliseconds
+
+[2022-10-11 21:48:17.2807] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Windows Settings. Query cost - 52 milliseconds
+
+[2022-10-11 21:48:17.8298] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Windows Settings. Query cost - 64 milliseconds
+
+[2022-10-11 21:53:01.0867] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:58:39.3823] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:58:41.3323] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 51 milliseconds
+
+[2022-10-11 21:58:41.3323] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 56 milliseconds
+
+[2022-10-11 21:58:41.6812] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 60 milliseconds
+
+[2022-10-11 21:58:41.6886] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 67 milliseconds
+
+[2022-10-11 21:58:42.9035] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 57 milliseconds
+
+[2022-10-11 21:58:42.9035] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 68 milliseconds
+
+[2022-10-11 21:58:43.2047] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 103 milliseconds
+
+[2022-10-11 21:58:43.2290] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 127 milliseconds
+
+[2022-10-11 21:58:43.5606] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 63 milliseconds
+
+[2022-10-11 21:58:43.5606] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 68 milliseconds
+
+[2022-10-11 21:58:44.1093] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 96 milliseconds
+
+[2022-10-11 21:58:44.1889] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 131 milliseconds
+
+[2022-10-11 21:58:44.2005] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 116 milliseconds
+
+[2022-10-11 21:58:44.2005] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 91 milliseconds
+
+[2022-10-11 21:58:44.2198] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 207 milliseconds
+
+[2022-10-11 21:58:44.2198] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 140 milliseconds
+
+[2022-10-11 21:58:44.2198] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 172 milliseconds
+
+[2022-10-11 21:58:44.2366] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Window Walker. Query cost - 123 milliseconds
+
+[2022-10-11 21:58:44.2366] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 75 milliseconds
+
+[2022-10-11 21:58:46.1757] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Unit Converter. Query cost - 291 milliseconds
+
+[2022-10-11 21:58:46.3907] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Program. Query cost - 52 milliseconds
+
+[2022-10-11 21:58:50.5306] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Shell. Query cost - 208 milliseconds
+
+[2022-10-11 21:58:50.5306] [WARN] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\Plugin\PluginManager.cs::207]
+PluginManager.QueryForPlugin Shell. Query cost - 248 milliseconds
+
+[2022-10-11 21:59:00.9244] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\ViewModel\MainViewModel.cs::914]
+OnHotkey
+
+[2022-10-11 21:59:06.5417] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::203]
+Application.Current.SessionEnding
+
+[2022-10-11 21:59:06.5783] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::262]
+Start PowerToys Run Exit----------------------------------------------------  
+
+[2022-10-11 21:59:06.7382] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\QueryHistory.json>
+
+[2022-10-11 21:59:06.7494] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\UserSelectedRecord.json>
+
+[2022-10-11 21:59:06.8650] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\PowerToysRunSettings.json>
+
+[2022-10-11 21:59:06.8650] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Folder\FolderSettings.json>
+
+[2022-10-11 21:59:06.9074] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Program\ProgramPluginSettings.json>
+
+[2022-10-11 21:59:06.9220] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Shell\ShellPluginSettings.json>
+
+[2022-10-11 21:59:06.9220] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\Plugins\Microsoft.Plugin.Uri\UriSettings.json>
+
+[2022-10-11 21:59:06.9629] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Storage\JsonStorage`1.cs::131]
+Saving cached data at <C:\Users\Andre\AppData\Local\Microsoft\PowerToys\PowerToys Run\Settings\ImageCache.json>
+
+[2022-10-11 21:59:07.2438] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::90]
+Runner with pid=17060 exited. Exiting PowerToys Run
+
+[2022-10-11 21:59:07.5491] [INFO] [C:\a\_work\1\s\src\modules\launcher\PowerLauncher\App.xaml.cs::282]
+End PowerToys Run Exit ----------------------------------------------------  
+
+[2022-10-11 21:59:07.5491] [INFO] [C:\a\_work\1\s\src\modules\launcher\Wox.Infrastructure\Stopwatch.cs::50]
+App.OnExit - Exit cost <1006ms>
+

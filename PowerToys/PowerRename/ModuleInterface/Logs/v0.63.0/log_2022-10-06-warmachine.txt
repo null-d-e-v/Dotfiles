@@ -1,0 +1,5 @@
+[2022-10-06 15:34:06.958080] [p-10884] [t-11928] [info] powerrename logger is initialized
+[2022-10-06 15:34:35.498008] [p-10884] [t-11928] [info] PowerRename enabled
+[2022-10-06 15:34:35.676857] [p-10884] [t-11928] [error] Register C:\Program Files\PowerToys\modules\PowerRename\PowerRenameContextMenuPackage.msix package failed. ErrorCode: -2147009296, ErrorText: error 0x80070002: Opening the package from location PowerRenameContextMenuPackage.msix failed.
+[2022-10-06 15:49:59.302947] [p-10884] [t-11928] [info] PowerRename disabled
+[2022-10-06 16:39:32.847469] [p-14476] [t-2280] [info] powerrename logger is initialized

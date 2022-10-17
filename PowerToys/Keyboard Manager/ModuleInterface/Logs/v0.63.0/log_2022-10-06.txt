@@ -1,0 +1,2 @@
+[2022-10-06 15:34:05.887448] [p-10884] [t-11928] [info] keyboard-manager logger is initialized
+[2022-10-06 16:44:06.213467] [p-11944] [t-13948] [info] keyboard-manager logger is initialized
