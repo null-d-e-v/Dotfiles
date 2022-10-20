@@ -13,3 +13,80 @@ INFO: 17:58:57.0981436
 INFO: 19:39:28.3844405
     [Method]: SendSettingsTelemetry [Class]: UserSettings
     Sending settings telemetry
+INFO: 23:07:08.8183805
+    [Method]: <OnStartup>b__13_0 [Class]: App
+    PowerToys Runner exited. Exiting ColorPicker
+INFO: 23:20:21.8150933
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=7908
+INFO: 23:20:24.6477879
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=11168
+ERROR: 23:20:25.8207151
+    [Method]: Main [Class]: Program
+    Unhandled exception
+The invocation of the constructor on type 'ColorPicker.MainWindow' that matches the specified binding constraints threw an exception.
+Inner exception: 
+The composition produced a single composition error. The root cause is provided below. Review the CompositionException.Errors property for more detailed information.
+
+1) The handle is invalid.
+
+Resulting in: An exception occurred while trying to create an instance of type 'ColorPicker.Mouse.MouseInfoProvider'.
+
+Resulting in: Cannot activate part 'ColorPicker.Mouse.MouseInfoProvider'.
+Element: ColorPicker.Mouse.MouseInfoProvider -->  ColorPicker.Mouse.MouseInfoProvider -->  AssemblyCatalog (Assembly="PowerToys.ColorPickerUI, Version=0.63.0.0, Culture=neutral, PublicKeyToken=null")
+
+Resulting in: Cannot get export 'ColorPicker.Mouse.MouseInfoProvider (ContractName="ColorPicker.Mouse.IMouseInfoProvider")' from part 'ColorPicker.Mouse.MouseInfoProvider'.
+Element: ColorPicker.Mouse.MouseInfoProvider (ContractName="ColorPicker.Mouse.IMouseInfoProvider") -->  ColorPicker.Mouse.MouseInfoProvider -->  AssemblyCatalog (Assembly="PowerToys.ColorPickerUI, Version=0.63.0.0, Culture=neutral, PublicKeyToken=null")
+
+Resulting in: Cannot set import 'ColorPicker.ViewModels.MainViewModel..ctor (Parameter="mouseInfoProvider", ContractName="ColorPicker.Mouse.IMouseInfoProvider")' on part 'ColorPicker.ViewModels.MainViewModel'.
+Element: ColorPicker.ViewModels.MainViewModel..ctor (Parameter="mouseInfoProvider", ContractName="ColorPicker.Mouse.IMouseInfoProvider") -->  ColorPicker.ViewModels.MainViewModel -->  AssemblyCatalog (Assembly="PowerToys.ColorPickerUI, Version=0.63.0.0, Culture=neutral, PublicKeyToken=null")
+
+Resulting in: Cannot get export 'ColorPicker.ViewModels.MainViewModel (ContractName="ColorPicker.ViewModelContracts.IMainViewModel")' from part 'ColorPicker.ViewModels.MainViewModel'.
+Element: ColorPicker.ViewModels.MainViewModel (ContractName="ColorPicker.ViewModelContracts.IMainViewModel") -->  ColorPicker.ViewModels.MainViewModel -->  AssemblyCatalog (Assembly="PowerToys.ColorPickerUI, Version=0.63.0.0, Culture=neutral, PublicKeyToken=null")
+
+Resulting in: Cannot set import 'ColorPicker.MainWindow.MainViewModel (ContractName="ColorPicker.ViewModelContracts.IMainViewModel")' on part 'ColorPicker.MainWindow'.
+Element: ColorPicker.MainWindow.MainViewModel (ContractName="ColorPicker.ViewModelContracts.IMainViewModel") -->  ColorPicker.MainWindow
+
+Stack trace: 
+   at System.Windows.Markup.XamlReader.RewrapException(Exception e, IXamlLineInfo lineInfo, Uri baseUri)
+   at System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   at System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   at System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   at System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   at System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   at System.Windows.Application.DoStartup()
+   at System.Windows.Application.<.ctor>b__1_0(Object unused)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   at MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.Run()
+   at System.Windows.Application.RunDispatcher(Object ignore)
+   at System.Windows.Application.RunInternal(Window window)
+   at System.Windows.Application.Run()
+   at ColorPicker.Program.Main(String[] args)
+INFO: 23:20:25.8690754
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 23:20:25.8977716
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

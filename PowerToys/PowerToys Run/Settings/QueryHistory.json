@@ -231,6 +231,14 @@
     {
       "Query": "term",
       "ExecutedDateTime": "2022-10-19T06:51:48.7586999-05:00"
+    },
+    {
+      "Query": "edge",
+      "ExecutedDateTime": "2022-10-19T18:05:55.6620147-05:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2022-10-19T21:38:35.0455133-05:00"
     }
   ]
 }
