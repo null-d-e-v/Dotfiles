@@ -1,0 +1,6 @@
+INFO: 16:42:01.5244067
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=10332
+INFO: 16:42:04.0374486
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=3676

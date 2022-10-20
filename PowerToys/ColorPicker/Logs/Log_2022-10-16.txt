@@ -7,3 +7,9 @@ INFO: 19:53:20.7744542
 INFO: 19:53:25.0931201
     [Method]: SendSettingsTelemetry [Class]: UserSettings
     Sending settings telemetry
+INFO: 21:10:29.4704454
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=11400
+INFO: 21:10:29.8809894
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=2412

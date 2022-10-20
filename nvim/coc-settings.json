@@ -1,7 +1,10 @@
 {
-"explorer.toggle": true,
-"explorer.quitOnOpen": true,
-"explorer.previewAction.onHover":"content",
-"explorer.icon.source": "vim-devicons",
-"explorer.icon.enableNerdfont": true
+    "explorer.toggle": true,
+    "explorer.quitOnOpen": true,
+    "explorer.previewAction.onHover": "content",
+    "explorer.icon.source": "vim-devicons",
+    "explorer.icon.enableNerdfont": true,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "*"
+    ]
 }

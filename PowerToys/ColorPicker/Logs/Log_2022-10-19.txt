@@ -1,0 +1,15 @@
+INFO: 06:45:02.1468514
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=15068
+INFO: 06:45:04.7656717
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=5816
+INFO: 17:58:53.6534467
+    [Method]: Main [Class]: Program
+    Color Picker started with pid=12256
+INFO: 17:58:57.0981436
+    [Method]: OnStartup [Class]: App
+    Color Picker started from the PowerToys Runner. Runner pid=8744
+INFO: 19:39:28.3844405
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry

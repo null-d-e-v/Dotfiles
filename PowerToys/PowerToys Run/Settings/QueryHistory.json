@@ -203,6 +203,34 @@
     {
       "Query": "edge",
       "ExecutedDateTime": "2022-10-15T21:51:02.6563414-05:00"
+    },
+    {
+      "Query": "termina",
+      "ExecutedDateTime": "2022-10-16T21:24:37.2036249-05:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2022-10-17T16:43:18.5954017-05:00"
+    },
+    {
+      "Query": "edge",
+      "ExecutedDateTime": "2022-10-17T16:45:06.5627196-05:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2022-10-17T21:41:52.6258521-05:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2022-10-17T21:49:22.9212928-05:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2022-10-18T19:50:18.5364267-05:00"
+    },
+    {
+      "Query": "term",
+      "ExecutedDateTime": "2022-10-19T06:51:48.7586999-05:00"
     }
   ]
 }
