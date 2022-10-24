@@ -1,1 +1,0 @@
-[2022-10-08 15:53:41.383057] [p-9668] [t-7252] [info] TextExtractor logger is initialized

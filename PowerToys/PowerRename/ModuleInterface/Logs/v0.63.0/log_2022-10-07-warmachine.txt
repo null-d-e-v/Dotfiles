@@ -1,1 +1,0 @@
-[2022-10-07 12:17:34.753122] [p-8360] [t-13500] [info] powerrename logger is initialized

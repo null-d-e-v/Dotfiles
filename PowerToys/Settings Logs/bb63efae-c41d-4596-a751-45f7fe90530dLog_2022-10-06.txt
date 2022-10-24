@@ -1,6 +1,0 @@
-INFO: 15:35:14.5718341
-    [Method]: LoadSettingsFromJson [Class]: UserSettings
-    ColorPicker settings.json was missing, creating a new one
-INFO: 15:35:25.9075454
-    [Method]: SendSettingsTelemetry [Class]: UserSettings
-    Sending settings telemetry

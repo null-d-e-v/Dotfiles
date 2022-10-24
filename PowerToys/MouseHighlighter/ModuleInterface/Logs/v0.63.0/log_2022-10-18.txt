@@ -1,3 +1,0 @@
-[2022-10-18 19:39:27.517625] [p-5324] [t-16028] [info] mouse-highlighter logger is initialized
-[2022-10-18 19:39:28.462992] [p-5324] [t-8304] [info] Starting a highlighter instance.
-[2022-10-18 19:39:28.467078] [p-5324] [t-8304] [info] Initialized the highlighter instance.

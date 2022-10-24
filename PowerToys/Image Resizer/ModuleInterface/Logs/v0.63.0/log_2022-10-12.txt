@@ -1,1 +1,0 @@
-[2022-10-12 19:42:27.342021] [p-18908] [t-13320] [info] imageresizer logger is initialized

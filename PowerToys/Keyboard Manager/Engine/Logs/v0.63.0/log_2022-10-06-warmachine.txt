@@ -1,7 +1,0 @@
-[2022-10-06 15:34:35.551136] [p-4144] [t-8616] [info] keyboard-manager logger is initialized
-[2022-10-06 15:34:35.681917] [p-4144] [t-8616] [trace] SettingsHelper::LoadSettings()
-[2022-10-06 15:34:36.183985] [p-4144] [t-8616] [trace] SettingsHelper::LoadSettings()
-[2022-10-06 15:51:31.871372] [p-4144] [t-9744] [trace] PowerToys_KeyboardManager_Event_Settings event was signaled
-[2022-10-06 15:51:31.871410] [p-4144] [t-9744] [trace] SettingsHelper::LoadSettings()
-[2022-10-06 16:39:33.500586] [p-7504] [t-1956] [info] keyboard-manager logger is initialized
-[2022-10-06 16:39:33.620991] [p-7504] [t-1956] [trace] SettingsHelper::LoadSettings()

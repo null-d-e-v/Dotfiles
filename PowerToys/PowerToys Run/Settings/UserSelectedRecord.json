@@ -10,8 +10,8 @@
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Terminal : Packaged application": {
-      "SelectedCount": 37,
-      "LastSelected": "2022-10-20T02:38:35.0287755Z",
+      "SelectedCount": 43,
+      "LastSelected": "2022-10-20T23:56:05.4478251Z",
       "Title": "Terminal",
       "Search": "terminal",
       "Score": 0,
@@ -19,28 +19,28 @@
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Microsoft Edge : Application": {
-      "SelectedCount": 19,
-      "LastSelected": "2022-10-19T23:05:55.661528Z",
+      "SelectedCount": 21,
+      "LastSelected": "2022-10-21T00:26:13.3559277Z",
       "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
       "Title": "Microsoft Edge",
-      "Search": "edge",
+      "Search": "ed",
       "Score": 0,
       "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Discord : Application": {
-      "SelectedCount": 6,
-      "LastSelected": "2022-10-13T02:46:36.4015012Z",
+      "SelectedCount": 7,
+      "LastSelected": "2022-10-20T23:49:12.4740581Z",
       "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
       "Title": "Discord",
-      "Search": "dis",
+      "Search": "discord",
       "Score": 0,
       "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Visual Studio Code : Application": {
-      "SelectedCount": 4,
-      "LastSelected": "2022-10-13T02:57:57.0286202Z",
+      "SelectedCount": 5,
+      "LastSelected": "2022-10-20T23:53:09.7664069Z",
       "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
       "Title": "Visual Studio Code",
       "Search": "code",

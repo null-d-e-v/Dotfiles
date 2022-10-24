@@ -1,6 +1,0 @@
-[2022-10-08 16:53:51.672722] [p-3668] [t-7444] [info] keyboard-manager logger is initialized
-[2022-10-08 16:53:52.321959] [p-3668] [t-7444] [trace] SettingsHelper::LoadSettings()
-[2022-10-08 16:56:09.977289] [p-3668] [t-15960] [trace] PowerToys runner exited.
-[2022-10-08 16:56:09.977335] [p-3668] [t-15960] [trace] Exiting KeyboardManager engine
-[2022-10-08 16:57:14.554708] [p-10804] [t-14728] [info] keyboard-manager logger is initialized
-[2022-10-08 16:57:14.675827] [p-10804] [t-14728] [trace] SettingsHelper::LoadSettings()

@@ -1,2 +1,0 @@
-[2022-10-17 16:42:00.020335] [p-3676] [t-9144] [info] launcher logger is initialized
-[2022-10-17 16:42:00.020360] [p-3676] [t-9144] [info] Launcher object is constructing

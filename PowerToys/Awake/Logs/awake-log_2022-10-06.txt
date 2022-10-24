@@ -1,8 +1,0 @@
-[2022-10-06 15:34:07.438684] [p-10884] [t-11928] [info] launcher logger is initialized
-[2022-10-06 15:34:07.438721] [p-10884] [t-11928] [info] Launcher object is constructing
-[2022-10-06 15:34:10.335305] [p-10884] [t-11928] [trace] Launching PowerToys Awake process
-[2022-10-06 15:34:10.335323] [p-10884] [t-11928] [trace] PowerToys Awake launching with parameters: --use-pt-config --pid 10884
-[2022-10-06 15:40:56.459549] [p-10884] [t-11928] [trace] Disabling Awake...
-[2022-10-06 15:40:56.459639] [p-10884] [t-11928] [trace] Signaled exit event for PowerToys Awake.
-[2022-10-06 16:44:07.821141] [p-11944] [t-13948] [info] launcher logger is initialized
-[2022-10-06 16:44:07.821201] [p-11944] [t-13948] [info] Launcher object is constructing

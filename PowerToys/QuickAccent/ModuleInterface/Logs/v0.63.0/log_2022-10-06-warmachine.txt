@@ -1,4 +1,0 @@
-[2022-10-06 15:34:09.304186] [p-10884] [t-11928] [info] QuickAccent logger is initialized
-[2022-10-06 15:34:09.304815] [p-10884] [t-11928] [info] Launcher object is constructing
-[2022-10-06 16:39:33.029506] [p-14476] [t-2280] [info] QuickAccent logger is initialized
-[2022-10-06 16:39:33.030241] [p-14476] [t-2280] [info] Launcher object is constructing

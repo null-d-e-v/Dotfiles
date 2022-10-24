@@ -64,6 +64,9 @@ nnoremap <Leader>q :wq<CR>
 nnoremap <Leader>f <Cmd>CocCommand explorer<CR>
 
 " Plugins keyboard shortcuts
+
+autocmd CursorHold * silent call CocActionAsync('highlight')
+
 inoremap <silent><expr> <TAB>
       \ coc#pum#visible() ? coc#pum#next(1) :
       \ CheckBackspace() ? "\<Tab>" :
@@ -106,9 +109,6 @@ function! ShowDocumentation()
     call feedkeys('K', 'in')
   endif
 endfunction
-
-" Highlight the symbol and its references when holding the cursor.
-autocmd CursorHold * silent call CocActionAsync('highlight')
 
 " Symbol renaming.
 nmap <leader>rn <Plug>(coc-rename)

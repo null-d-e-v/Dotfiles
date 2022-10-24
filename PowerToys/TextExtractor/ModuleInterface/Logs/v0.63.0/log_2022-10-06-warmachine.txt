@@ -1,8 +1,0 @@
-[2022-10-06 15:34:09.417232] [p-10884] [t-11928] [info] TextExtractor logger is initialized
-[2022-10-06 15:34:09.418055] [p-10884] [t-11928] [info] TextExtractor settings are empty
-[2022-10-06 15:34:09.418063] [p-10884] [t-11928] [info] TextExtractor is going to use default shortcut
-[2022-10-06 15:34:35.841148] [p-10884] [t-11928] [trace] TextExtractor::enable()
-[2022-10-06 15:34:35.841405] [p-10884] [t-11928] [trace] Starting TextExtractor process
-[2022-10-06 15:34:36.021177] [p-10884] [t-11928] [trace] Successfully started the TextExtractor process
-[2022-10-06 15:50:10.392553] [p-10884] [t-11928] [trace] TextExtractor::disable()
-[2022-10-06 16:39:33.035126] [p-14476] [t-2280] [info] TextExtractor logger is initialized

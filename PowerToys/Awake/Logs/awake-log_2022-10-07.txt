@@ -1,6 +1,0 @@
-[2022-10-07 13:05:09.707396] [p-4420] [t-8008] [info] launcher logger is initialized
-[2022-10-07 13:05:09.707411] [p-4420] [t-8008] [info] Launcher object is constructing
-[2022-10-07 13:06:59.444096] [p-6580] [t-932] [info] launcher logger is initialized
-[2022-10-07 13:06:59.444115] [p-6580] [t-932] [info] Launcher object is constructing
-[2022-10-07 20:24:35.681121] [p-6540] [t-9928] [info] launcher logger is initialized
-[2022-10-07 20:24:35.681141] [p-6540] [t-9928] [info] Launcher object is constructing

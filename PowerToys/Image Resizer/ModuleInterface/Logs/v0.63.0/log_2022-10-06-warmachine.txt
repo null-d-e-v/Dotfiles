@@ -1,3 +1,0 @@
-[2022-10-06 15:34:05.707848] [p-10884] [t-11928] [info] imageresizer logger is initialized
-[2022-10-06 15:34:34.904728] [p-10884] [t-11928] [info] Register C:\Program Files\PowerToys\modules\ImageResizer\ImageResizerContextMenuPackage.msix package completed.
-[2022-10-06 16:39:32.771846] [p-14476] [t-2280] [info] imageresizer logger is initialized
