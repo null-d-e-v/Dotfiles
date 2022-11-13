@@ -1,66 +1,37 @@
 {
   "Records": {
-    "control : Run command": {
+    "Discord : Application": {
       "SelectedCount": 1,
-      "LastSelected": "2022-10-06T21:45:28.1440766Z",
-      "Title": "control",
-      "Search": "control",
+      "LastSelected": "2022-11-04T01:43:41.1353722Z",
+      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+      "Title": "Discord",
+      "Search": "disc",
       "Score": 0,
-      "SubTitle": "Run command",
+      "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Terminal : Packaged application": {
-      "SelectedCount": 43,
-      "LastSelected": "2022-10-20T23:56:05.4478251Z",
+      "SelectedCount": 12,
+      "LastSelected": "2022-11-13T03:22:33.7906351Z",
       "Title": "Terminal",
-      "Search": "terminal",
+      "Search": "term",
       "Score": 0,
       "SubTitle": "Packaged application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Microsoft Edge : Application": {
-      "SelectedCount": 21,
-      "LastSelected": "2022-10-21T00:26:13.3559277Z",
+      "SelectedCount": 4,
+      "LastSelected": "2022-11-12T22:49:56.6342797Z",
       "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
       "Title": "Microsoft Edge",
-      "Search": "ed",
+      "Search": "edge",
       "Score": 0,
       "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
-    },
-    "Discord : Application": {
-      "SelectedCount": 7,
-      "LastSelected": "2022-10-20T23:49:12.4740581Z",
-      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
-      "Title": "Discord",
-      "Search": "discord",
-      "Score": 0,
-      "SubTitle": "Application",
-      "PluginID": "791FC278BA414111B8D1886DFE447410"
-    },
-    "Visual Studio Code : Application": {
-      "SelectedCount": 5,
-      "LastSelected": "2022-10-20T23:53:09.7664069Z",
-      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
-      "Title": "Visual Studio Code",
-      "Search": "code",
-      "Score": 0,
-      "SubTitle": "Application",
-      "PluginID": "791FC278BA414111B8D1886DFE447410"
-    },
-    "ipconfig : Shell: execute command through command shell": {
-      "SelectedCount": 1,
-      "LastSelected": "2022-10-07T18:07:23.6181801Z",
-      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\Shell\\Images/shell.dark.png",
-      "Title": "ipconfig",
-      "Search": "ipconfig",
-      "Score": 0,
-      "SubTitle": "Shell: execute command through command shell",
-      "PluginID": "D409510CD0D2481F853690A07E6DC426"
     },
     "Unity Hub : Application": {
-      "SelectedCount": 5,
-      "LastSelected": "2022-10-15T14:11:04.4774178Z",
+      "SelectedCount": 6,
+      "LastSelected": "2022-11-12T23:51:02.4330943Z",
       "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Unity Hub.lnk",
       "Title": "Unity Hub",
       "Search": "hub",
@@ -68,45 +39,102 @@
       "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
-    "www.youtube.com : Search the web in Microsoft Edge": {
-      "SelectedCount": 1,
-      "LastSelected": "2022-10-07T21:05:12.7069446Z",
-      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\WebSearch\\Images/WebSearch.dark.png",
-      "Title": "www.youtube.com",
-      "Search": "www.youtube.com",
+    "Lospec : Packaged application": {
+      "SelectedCount": 2,
+      "LastSelected": "2022-11-05T23:21:04.9459677Z",
+      "Title": "Lospec",
+      "Search": "lospec",
       "Score": 0,
-      "SubTitle": "Search the web in Microsoft Edge",
-      "PluginID": "9F1B49201C3F4BF781CAAD5CD88EA4DC"
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
-    "HP Support Assistant : Application": {
-      "SelectedCount": 1,
-      "LastSelected": "2022-10-12T02:38:37.0816162Z",
-      "IconPath": "C:\\Users\\Public\\Desktop\\HP Support Assistant.lnk",
-      "Title": "HP Support Assistant",
-      "Search": "hp su",
+    "Wacom Tablet Properties : Application": {
+      "SelectedCount": 5,
+      "LastSelected": "2022-11-06T00:08:13.7906405Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Wacom Tablet\\Wacom Tablet Properties.lnk",
+      "Title": "Wacom Tablet Properties",
+      "Search": "Wacom",
       "Score": 0,
       "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
-    "Display : System settings  \u02C3  Ease of access": {
+    "Krita (x64) : Application": {
       "SelectedCount": 1,
-      "LastSelected": "2022-10-12T02:48:20.0409482Z",
-      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\WindowsSettings\\Images/WindowsSettings.dark.png",
-      "Title": "Display",
-      "Search": "disp",
+      "LastSelected": "2022-11-05T23:20:33.4205326Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Krita\\Krita (x64).lnk",
+      "Title": "Krita (x64)",
+      "Search": "krita",
       "Score": 0,
-      "SubTitle": "System settings  \u02C3  Ease of access",
-      "PluginID": "5043CECEE6A748679CBE02D27D83747A"
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
-    "shutdown : Shell: execute command through command shell": {
+    "(1) Jarabe De Palo - La Flaca (Videoclip Oficial) - YouTube - Personal - Microsoft\u200B Edge : Running: msedge.exe": {
       "SelectedCount": 1,
-      "LastSelected": "2022-10-12T02:58:52.5036641Z",
-      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\Shell\\Images/shell.dark.png",
-      "Title": "shutdown",
-      "Search": "shutdown",
+      "LastSelected": "2022-11-05T23:21:00.6138129Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\\WindowWalker\\Images/windowwalker.dark.png",
+      "Title": "(1) Jarabe De Palo - La Flaca (Videoclip Oficial) - YouTube - Personal - Microsoft\u200B Edge",
+      "Search": "loes",
       "Score": 0,
-      "SubTitle": "Shell: execute command through command shell",
-      "PluginID": "D409510CD0D2481F853690A07E6DC426"
+      "SubTitle": "Running: msedge.exe",
+      "PluginID": "F737A9223560B3C6833B5FFB8CDF78E5"
+    },
+    "Visual Studio Code : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-06T00:18:12.4164313Z",
+      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+      "Title": "Visual Studio Code",
+      "Search": "code",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Microsoft Store : Packaged application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-13T02:05:22.6045825Z",
+      "Title": "Microsoft Store",
+      "Search": "store",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Alacritty : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-13T02:17:27.9342526Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Alacritty\\Alacritty.lnk",
+      "Title": "Alacritty",
+      "Search": "ala",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "cmd : Run command": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-13T02:20:49.8331013Z",
+      "Title": "cmd",
+      "Search": "cmd",
+      "Score": 0,
+      "SubTitle": "Run command",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Command Prompt : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-13T02:21:06.2832154Z",
+      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+      "Title": "Command Prompt",
+      "Search": "cmd",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Hyper : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-13T03:27:09.5508054Z",
+      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Hyper.lnk",
+      "Title": "Hyper",
+      "Search": "hy",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
     }
   }
 }

@@ -1,4 +1,5 @@
 {
+    "powershell.integratedConsole.showOnStartup": false,
     "explorer.toggle": true,
     "explorer.quitOnOpen": true,
     "explorer.previewAction.onHover": "content",

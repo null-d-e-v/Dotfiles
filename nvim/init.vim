@@ -2,6 +2,8 @@ call plug#begin()
 
 " Colors and themes
 Plug 'morhetz/gruvbox'
+Plug 'thedenisnikulin/vim-cyberpunk'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-airline/vim-airline'
 
 Plug 'ryanoasis/vim-devicons'
@@ -23,6 +25,8 @@ let g:gruvbox_contrast_dark="hard"
 let g:gruvbox_italicize_comments=1
 let g:gruvbox_italicize_strings=1
 
+let g:airline_theme='cyberpunk'
+
 " Vim configuration
 
 " Basic
@@ -35,8 +39,9 @@ syntax enable
 set encoding=utf-8
 
 " Colors
+set termguicolors
 set background=dark
-colorscheme gruvbox
+colorscheme cyberpunk
 
 " Editor
 set relativenumber

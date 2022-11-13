@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='C:\Users\Andre\workspace\nodejs\odoo-dispartes-connector'
 let g:netrw_dirhist_4='C:\Users\Andre\workspace\Dotfiles\.git'
 let g:netrw_dirhist_3='C:\Users\Andre\workspace\web\portafolio'
 let g:netrw_dirhist_2='C:/Users/Andre/workspace/web/portafolio/public'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_9='C:/Users/Andre/workspace/Dotfiles/PowerShell'
 let g:netrw_dirhist_8='C:/Users/Andre/workspace/Dotfiles'
 let g:netrw_dirhist_7='C:/Users/Andre/workspace'
 let g:netrw_dirhist_6='C:\Users\Andre'
-let g:netrw_dirhist_5='C:/Users/Andre/workspace/temp/practica-g2-equipo-9/Practica_1/src/gestorAplicacion/gestion'

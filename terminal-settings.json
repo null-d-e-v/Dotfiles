@@ -1,23 +1,20 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
-    [
+    "actions": [
         {
             "command": "find",
             "keys": "ctrl+shift+f"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "right"
             },
             "keys": "alt+shift+l"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "copy",
                 "singleLine": false
             },
@@ -28,8 +25,7 @@
             "keys": "ctrl+v"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "auto",
                 "splitMode": "duplicate"
@@ -37,8 +33,7 @@
             "keys": "alt+shift+d"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "down"
             },
@@ -69,82 +64,82 @@
             "keys": "alt+down"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "moveFocus",
                 "direction": "up"
             },
             "keys": "ctrl+shift+k"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "moveFocus",
                 "direction": "right"
             },
             "keys": "ctrl+shift+l"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "moveFocus",
                 "direction": "down"
             },
             "keys": "ctrl+shift+j"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "moveFocus",
                 "direction": "left"
             },
             "keys": "ctrl+shift+h"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "left"
             },
             "keys": "alt+shift+h"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "resizePane",
                 "direction": "left"
             }
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "up"
             },
             "keys": "alt+shift+k"
         }
     ],
-    "alwaysShowTabs": true,
+    "alwaysShowTabs": false,
     "copyFormatting": "none",
-    "copyOnSelect": false,
+    "copyOnSelect": true,
     "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-    "launchMode": "maximized",
-    "profiles": 
-    {
-        "defaults": 
-        {
-            "colorScheme": "Gruvbox Dark",
-            "font": 
-            {
-                "face": "CaskaydiaCove NF Mono"
+    "disableAnimations": true,
+    "initialCols": 90,
+    "initialRows": 20,
+    "launchMode": "maximizedFocus",
+    "profiles": {
+        "defaults": {
+            "backgroundImage": "desktopWallpaper",
+            "backgroundImageOpacity": 0.10000000000000001,
+            "backgroundImageStretchMode": "uniformToFill",
+            "bellStyle": "window",
+            "colorScheme": "CyberPunk2077",
+            "cursorShape": "doubleUnderscore",
+            "experimental.retroTerminalEffect": false,
+            "font": {
+                "face": "JetBrainsMono NF"
             },
             "intenseTextStyle": "all",
-            "opacity": 85,
-            "padding": "0, 10, 0, 0",
-            "useAcrylic": true
+            "opacity": 100,
+            "padding": "15",
+            "scrollbarState": "hidden",
+            "suppressApplicationTitle": true,
+            "useAcrylic": false
         },
-        "list": 
-        [
+        "list": [
             {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
@@ -165,8 +160,7 @@
             }
         ]
     },
-    "schemes": 
-    [
+    "schemes": [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
@@ -212,6 +206,52 @@
             "selectionBackground": "#FFFFFF",
             "white": "#CCCCCC",
             "yellow": "#C19C00"
+        },
+        {
+            "background": "#000000",
+            "black": "#000000",
+            "blue": "#9381FF",
+            "brightBlack": "#7B8097",
+            "brightBlue": "#37EBF3",
+            "brightCyan": "#37EBF3",
+            "brightGreen": "#40FFE9",
+            "brightPurple": "#CB1DCD",
+            "brightRed": "#C71515",
+            "brightWhite": "#C1DEFF",
+            "brightYellow": "#FFF955",
+            "cursorColor": "#FDF500",
+            "cyan": "#00D0DB",
+            "foreground": "#E455AE",
+            "green": "#1AC5B0",
+            "name": "CyberPunk2077",
+            "purple": "#742D8B",
+            "red": "#710000",
+            "selectionBackground": "#742D8B",
+            "white": "#D1C5C0",
+            "yellow": "#FDF500"
+        },
+        {
+            "background": "#191B2A",
+            "black": "#191B2A",
+            "blue": "#94BFFF",
+            "brightBlack": "#2A2D46",
+            "brightBlue": "#94BFFF",
+            "brightCyan": "#01F7F7",
+            "brightGreen": "#39FFBA",
+            "brightPurple": "#AE81FF",
+            "brightRed": "#FF476E",
+            "brightWhite": "#EFF0F6",
+            "brightYellow": "#FFEE7A",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#01F7F7",
+            "foreground": "#EFF0F6",
+            "green": "#39FFBA",
+            "name": "Dank Neon",
+            "purple": "#AE81FF",
+            "red": "#FF476E",
+            "selectionBackground": "#FFFFFF",
+            "white": "#EFF0F6",
+            "yellow": "#FFEE7A"
         },
         {
             "background": "#1E1E1E",
@@ -401,5 +441,6 @@
     "showTabsInTitlebar": true,
     "showTerminalTitleInTitlebar": true,
     "tabWidthMode": "compact",
-    "theme": "dark"
+    "theme": "dark",
+    "useAcrylicInTabRow": false
 }

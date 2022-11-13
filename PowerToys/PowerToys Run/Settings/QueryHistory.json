@@ -1,264 +1,116 @@
 {
   "Items": [
     {
-      "Query": "control",
-      "ExecutedDateTime": "2022-10-06T16:45:28.1449727-05:00"
+      "Query": "disc",
+      "ExecutedDateTime": "2022-11-03T20:43:41.1385297-05:00"
     },
     {
       "Query": "terminal",
-      "ExecutedDateTime": "2022-10-06T21:03:09.7545097-05:00"
+      "ExecutedDateTime": "2022-11-03T23:07:03.3199857-05:00"
     },
     {
       "Query": "edge",
-      "ExecutedDateTime": "2022-10-06T21:04:33.8258752-05:00"
-    },
-    {
-      "Query": "disc",
-      "ExecutedDateTime": "2022-10-06T21:13:47.0069165-05:00"
-    },
-    {
-      "Query": "visual studio code",
-      "ExecutedDateTime": "2022-10-06T21:15:36.1164833-05:00"
-    },
-    {
-      "Query": "\u003Eipconfig",
-      "ExecutedDateTime": "2022-10-07T13:07:23.6201726-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-07T13:07:39.1292287-05:00"
+      "ExecutedDateTime": "2022-11-05T14:50:46.3924348-05:00"
     },
     {
       "Query": "hub",
-      "ExecutedDateTime": "2022-10-07T13:08:39.2235957-05:00"
+      "ExecutedDateTime": "2022-11-05T17:34:19.4332251-05:00"
     },
     {
-      "Query": "?? www.youtube.com",
-      "ExecutedDateTime": "2022-10-07T16:05:12.7069786-05:00"
+      "Query": "los",
+      "ExecutedDateTime": "2022-11-05T17:53:14.7426823-05:00"
+    },
+    {
+      "Query": "tabl",
+      "ExecutedDateTime": "2022-11-05T18:09:58.6858082-05:00"
+    },
+    {
+      "Query": "edge",
+      "ExecutedDateTime": "2022-11-05T18:17:00.2245793-05:00"
+    },
+    {
+      "Query": "krita",
+      "ExecutedDateTime": "2022-11-05T18:20:33.4207812-05:00"
+    },
+    {
+      "Query": "loes",
+      "ExecutedDateTime": "2022-11-05T18:21:00.6139203-05:00"
+    },
+    {
+      "Query": "lospec",
+      "ExecutedDateTime": "2022-11-05T18:21:04.9459773-05:00"
+    },
+    {
+      "Query": "tab",
+      "ExecutedDateTime": "2022-11-05T18:28:27.0825821-05:00"
+    },
+    {
+      "Query": "Wacom",
+      "ExecutedDateTime": "2022-11-05T19:08:13.7907151-05:00"
+    },
+    {
+      "Query": "hub",
+      "ExecutedDateTime": "2022-11-05T19:17:44.4800211-05:00"
+    },
+    {
+      "Query": "code",
+      "ExecutedDateTime": "2022-11-05T19:18:12.416473-05:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2022-11-07T18:10:23.4231944-05:00"
+    },
+    {
+      "Query": "hub",
+      "ExecutedDateTime": "2022-11-07T18:11:13.5651585-05:00"
+    },
+    {
+      "Query": "edge",
+      "ExecutedDateTime": "2022-11-07T19:28:57.5474571-05:00"
+    },
+    {
+      "Query": "u",
+      "ExecutedDateTime": "2022-11-07T20:37:16.3036975-05:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2022-11-12T17:45:23.0231216-05:00"
+    },
+    {
+      "Query": "hub",
+      "ExecutedDateTime": "2022-11-12T17:46:31.1036114-05:00"
+    },
+    {
+      "Query": "edge",
+      "ExecutedDateTime": "2022-11-12T17:49:56.6342897-05:00"
+    },
+    {
+      "Query": "hub",
+      "ExecutedDateTime": "2022-11-12T18:51:02.4331293-05:00"
+    },
+    {
+      "Query": "store",
+      "ExecutedDateTime": "2022-11-12T21:05:22.6048353-05:00"
+    },
+    {
+      "Query": "ala",
+      "ExecutedDateTime": "2022-11-12T21:17:27.934268-05:00"
+    },
+    {
+      "Query": "cmd",
+      "ExecutedDateTime": "2022-11-12T21:21:06.2832277-05:00"
     },
     {
       "Query": "termina",
-      "ExecutedDateTime": "2022-10-07T16:09:15.2608961-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-07T20:27:05.6347984-05:00"
-    },
-    {
-      "Query": "hub",
-      "ExecutedDateTime": "2022-10-07T20:27:11.2595454-05:00"
-    },
-    {
-      "Query": "code",
-      "ExecutedDateTime": "2022-10-07T20:28:19.2836245-05:00"
-    },
-    {
-      "Query": "hub",
-      "ExecutedDateTime": "2022-10-08T15:55:38.7226726-05:00"
-    },
-    {
-      "Query": "code",
-      "ExecutedDateTime": "2022-10-09T14:30:20.5680969-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-11T21:23:19.7474301-05:00"
-    },
-    {
-      "Query": "hp su",
-      "ExecutedDateTime": "2022-10-11T21:38:37.081845-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-11T21:40:34.4975206-05:00"
-    },
-    {
-      "Query": "$disp",
-      "ExecutedDateTime": "2022-10-11T21:48:20.0409664-05:00"
-    },
-    {
-      "Query": "\u003Eshutdown",
-      "ExecutedDateTime": "2022-10-11T21:58:52.5036751-05:00"
-    },
-    {
-      "Query": "dis",
-      "ExecutedDateTime": "2022-10-12T19:44:32.6881851-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-12T19:45:17.6477023-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-12T19:46:30.9630027-05:00"
+      "ExecutedDateTime": "2022-11-12T22:11:46.2352277-05:00"
     },
     {
       "Query": "term",
-      "ExecutedDateTime": "2022-10-12T19:48:42.7528322-05:00"
+      "ExecutedDateTime": "2022-11-12T22:22:33.7906457-05:00"
     },
     {
-      "Query": "ter",
-      "ExecutedDateTime": "2022-10-12T19:55:39.3202809-05:00"
-    },
-    {
-      "Query": "termina",
-      "ExecutedDateTime": "2022-10-12T19:57:08.5651302-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-12T20:55:41.4942505-05:00"
-    },
-    {
-      "Query": "discord",
-      "ExecutedDateTime": "2022-10-12T20:56:57.968951-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-12T20:57:18.8259074-05:00"
-    },
-    {
-      "Query": "termina",
-      "ExecutedDateTime": "2022-10-12T20:58:16.0075917-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-12T20:58:53.6845813-05:00"
-    },
-    {
-      "Query": "termina",
-      "ExecutedDateTime": "2022-10-12T20:59:51.2885568-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-12T21:04:53.2754707-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-12T21:05:33.7540946-05:00"
-    },
-    {
-      "Query": "disc",
-      "ExecutedDateTime": "2022-10-12T21:12:24.3514377-05:00"
-    },
-    {
-      "Query": "termina",
-      "ExecutedDateTime": "2022-10-12T21:13:07.1150657-05:00"
-    },
-    {
-      "Query": "dis",
-      "ExecutedDateTime": "2022-10-12T21:46:36.4015179-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-12T21:47:37.3384214-05:00"
-    },
-    {
-      "Query": "hub",
-      "ExecutedDateTime": "2022-10-12T21:47:39.3339892-05:00"
-    },
-    {
-      "Query": "termina",
-      "ExecutedDateTime": "2022-10-12T21:53:04.7152016-05:00"
-    },
-    {
-      "Query": "code",
-      "ExecutedDateTime": "2022-10-12T21:57:57.0286292-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-12T22:02:09.3242626-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-12T22:03:05.2875237-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-15T09:09:01.6767547-05:00"
-    },
-    {
-      "Query": "hub",
-      "ExecutedDateTime": "2022-10-15T09:11:04.4777518-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-15T19:45:56.5974177-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-15T19:50:56.8317763-05:00"
-    },
-    {
-      "Query": "termi",
-      "ExecutedDateTime": "2022-10-15T20:41:15.2217688-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-15T20:58:26.3080552-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-15T21:49:14.9654323-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-15T21:51:02.6563414-05:00"
-    },
-    {
-      "Query": "termina",
-      "ExecutedDateTime": "2022-10-16T21:24:37.2036249-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-17T16:43:18.5954017-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-17T16:45:06.5627196-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-17T21:41:52.6258521-05:00"
-    },
-    {
-      "Query": "ter",
-      "ExecutedDateTime": "2022-10-17T21:49:22.9212928-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-18T19:50:18.5364267-05:00"
-    },
-    {
-      "Query": "term",
-      "ExecutedDateTime": "2022-10-19T06:51:48.7586999-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-19T18:05:55.6620147-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-20T18:44:02.0510981-05:00"
-    },
-    {
-      "Query": "edge",
-      "ExecutedDateTime": "2022-10-20T18:46:25.0998513-05:00"
-    },
-    {
-      "Query": "discord",
-      "ExecutedDateTime": "2022-10-20T18:49:12.4740673-05:00"
-    },
-    {
-      "Query": "code",
-      "ExecutedDateTime": "2022-10-20T18:53:09.766418-05:00"
-    },
-    {
-      "Query": "terminal",
-      "ExecutedDateTime": "2022-10-20T18:56:05.4478361-05:00"
-    },
-    {
-      "Query": "ed",
-      "ExecutedDateTime": "2022-10-20T19:26:13.3559501-05:00"
+      "Query": "hy",
+      "ExecutedDateTime": "2022-11-12T22:27:09.5561309-05:00"
     }
   ]
 }
