@@ -1,9 +1,11 @@
 {
     "MinimalCord": false,
     "Dark Matter": false,
-    "GitHub Dark": false,
+    "GitHub Dark": true,
     "Gruvbox Hard Dark": false,
     "Fallout 4 Terminal": false,
     "Duvbox": false,
-    "Cyberpunk 2077": true
+    "Cyberpunk 2077": false,
+    "Ultra": false,
+    "Discord Dark": false
 }

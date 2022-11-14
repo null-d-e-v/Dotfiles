@@ -85,3 +85,7 @@ ERR 2022-11-12T23:41:59.358 nvim.11044.0 terminfo_start:359: uv_tty_set_mode fai
 ERR 2022-11-12T23:44:00.268 nvim.7792.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
 ERR 2022-11-12T23:44:48.034 nvim.7204.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
 ERR 2022-11-12T23:57:24.526 nvim.4232.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-11-13T00:39:02.924 nvim.3456.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-11-13T00:48:21.374 nvim.8024.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-11-13T18:49:00.564 nvim.9232.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-11-13T18:49:03.714 nvim.9232.0 libuv_process_spawn:84: uv_spawn(cmd) failed: no such file or directory

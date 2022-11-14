@@ -11,17 +11,17 @@
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Terminal : Packaged application": {
-      "SelectedCount": 12,
-      "LastSelected": "2022-11-13T03:22:33.7906351Z",
+      "SelectedCount": 31,
+      "LastSelected": "2022-11-13T05:38:35.9457339Z",
       "Title": "Terminal",
-      "Search": "term",
+      "Search": "terminal",
       "Score": 0,
       "SubTitle": "Packaged application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Microsoft Edge : Application": {
-      "SelectedCount": 4,
-      "LastSelected": "2022-11-12T22:49:56.6342797Z",
+      "SelectedCount": 6,
+      "LastSelected": "2022-11-13T21:49:51.8503716Z",
       "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
       "Title": "Microsoft Edge",
       "Search": "edge",
@@ -127,11 +127,21 @@
       "PluginID": "791FC278BA414111B8D1886DFE447410"
     },
     "Hyper : Application": {
-      "SelectedCount": 1,
-      "LastSelected": "2022-11-13T03:27:09.5508054Z",
-      "IconPath": "C:\\Users\\Andre\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Hyper.lnk",
+      "SelectedCount": 2,
+      "LastSelected": "2022-11-13T03:33:38.8580162Z",
+      "IconPath": "C:\\Users\\Andre\\OneDrive\\Escritorio\\Hyper.lnk",
       "Title": "Hyper",
-      "Search": "hy",
+      "Search": "hyper",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "MotoSpeed CK61 : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2022-11-13T05:22:22.504891Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Gaming Keyboard CK61\\MotoSpeed CK61.lnk",
+      "Title": "MotoSpeed CK61",
+      "Search": "moto",
       "Score": 0,
       "SubTitle": "Application",
       "PluginID": "791FC278BA414111B8D1886DFE447410"

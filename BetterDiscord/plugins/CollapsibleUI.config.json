@@ -1,16 +1,16 @@
 {
     "currentVersionInfo": {
-        "version": "5.7.0",
+        "version": "6.1.3",
         "hasShownChangelog": true
     },
     "enableFullToolbarCollapse": "false",
     "channelListWidth": "0",
-    "dynamicUncollapseEnabled": "true,true,true,true,true,true,true",
+    "dynamicUncollapseEnabled": "false,false,false,false,false,false,false",
     "toolbarMaxWidth": "800",
     "collapsedDistance": "0",
-    "cuiSettingsVersion": "6",
-    "disableTransitions": "false",
-    "transitionSpeed": "250",
+    "cuiSettingsVersion": "7",
+    "disableTransitions": "true",
+    "transitionSpeed": "100",
     "disableToolbarCollapse": "false",
     "disableSettingsCollapse": "false",
     "dynamicUncollapse": "true",
@@ -24,12 +24,14 @@
     "userAreaMaxHeight": "300",
     "msgBarMaxHeight": "400",
     "windowBarHeight": "18",
-    "cui.serverListButtonActive": "false",
-    "cui.channelListButtonActive": "true",
-    "cui.msgBarButtonActive": "true",
-    "cui.membersListButtonActive": "true",
-    "cui.userAreaButtonActive": "false",
     "disabledButtonsStayCollapsed": "false",
-    "cui.windowBarButtonActive": "true",
-    "cui.callContainerButtonActive": "true"
+    "autoCollapse": "false",
+    "autoCollapseThreshold": "500,600,400,200,950,400,550",
+    "keyBindsEnabled": "true",
+    "keyStringList": "Alt+S,Alt+C,Alt+T,Alt+W,Alt+M,Alt+U,Alt+P",
+    "serverListButtonActive": "true",
+    "channelListButtonActive": "false",
+    "windowBarButtonActive": "true",
+    "userAreaButtonActive": "true",
+    "msgBarButtonActive": "true"
 }
