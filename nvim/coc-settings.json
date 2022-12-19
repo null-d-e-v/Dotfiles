@@ -7,5 +7,65 @@
     "explorer.icon.enableNerdfont": true,
     "coc.preferences.formatOnSaveFiletypes": [
         "*"
-    ]
+    ],
+    "languageserver": {
+        "csharp-ls": {
+            "command": "csharp-ls",
+            "filetypes": [
+                "cs"
+            ],
+            "rootPatterns": [
+                "*.cspro",
+                ".vim/",
+                ".git/",
+                ".hg/"
+            ]
+        }
+    },
+    "snippets.ultisnips.pythonPrompt": false,
+    "diagnostic.refreshOnInsertMode": true,
+    "diagnostic.autoRefresh": true,
+    "diagnostic.floatConfig": {
+        "border": true,
+        "rounded": true
+    },
+    "suggest.floatConfig": {
+        "border": true,
+        "rounded": true
+    },
+    "hover.floatConfig": {
+        "border": true,
+        "rounded": true
+    },
+    "signature.floatConfig": {
+        "border": true,
+        "rounded": true
+    },
+    "suggest.completionItemKindLabels": {
+        "text": "",
+        "method": "",
+        "function": "",
+        "constructor": "",
+        "field": "",
+        "variable": "",
+        "class": "",
+        "interface": "ﰮ",
+        "module": "",
+        "property": "",
+        "unit": "",
+        "value": "",
+        "enum": "",
+        "keyword": "",
+        "snippet": "﬌",
+        "color": "",
+        "file": "",
+        "reference": "",
+        "folder": "",
+        "enumMember": "",
+        "constant": "",
+        "struct": "",
+        "event": "",
+        "operator": "ﬦ",
+        "typeParameter": ""
+    }
 }

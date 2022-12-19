@@ -124,14 +124,16 @@
             "keys": "alt+shift+k"
         }
     ],
+    "alwaysShowNotificationIcon": true,
     "alwaysShowTabs": false,
     "copyFormatting": "none",
     "copyOnSelect": true,
     "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
     "disableAnimations": true,
+    "firstWindowPreference": "defaultProfile",
     "initialCols": 90,
     "initialRows": 20,
-    "launchMode": "maximizedFocus",
+    "launchMode": "default",
     "profiles": 
     {
         "defaults": 
@@ -140,19 +142,20 @@
             "backgroundImageOpacity": 0.10000000000000001,
             "backgroundImageStretchMode": "uniformToFill",
             "bellStyle": "window",
-            "colorScheme": "CyberPunk2077",
+            "colorScheme": "Solarized Dark",
             "cursorShape": "doubleUnderscore",
             "experimental.retroTerminalEffect": false,
             "font": 
             {
-                "face": "JetBrainsMono NF"
+                "face": "FantasqueSansMono NF",
+                "size": 13
             },
             "intenseTextStyle": "all",
-            "opacity": 92,
+            "opacity": 75,
             "padding": "15",
             "scrollbarState": "hidden",
             "suppressApplicationTitle": true,
-            "useAcrylic": false
+            "useAcrylic": true
         },
         "list": 
         [
@@ -459,5 +462,6 @@
     "showTerminalTitleInTitlebar": true,
     "tabWidthMode": "compact",
     "theme": "dark",
-    "useAcrylicInTabRow": false
+    "useAcrylicInTabRow": false,
+    "windowingBehavior": "useAnyExisting"
 }
