@@ -6,7 +6,8 @@ Plug 'lifepillar/vim-solarized8'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-airline/vim-airline'
 
-Plug 'ryanoasis/vim-devicons'
+Plug 'nvim-tree/nvim-web-devicons'
+Plug 'romgrk/barbar.nvim'
 
 " Interface
 Plug 'rcarriga/nvim-notify'
@@ -26,6 +27,14 @@ let g:airline_theme='solarized'
 let g:airline_solarized_bg='dark'
 let g:airline_powerline_fonts=1
 let g:airline#extensions#coc#enabled = 1
+
+let bufferline = get(g:, 'bufferline', {})
+let bufferline.animation = v:true
+let bufferline.auto_hide = v:false
+let bufferline.tabpages = v:true
+let bufferline.closable = v:true
+let bufferline.clickable = v:true
+
 " Vim configuration
 
 " Basic
@@ -65,8 +74,23 @@ set linebreak
 
 inoremap jj <Esc>
 nnoremap <Leader>s :update<CR>
-nnoremap <Leader>q :wq<CR>
 nnoremap <Leader>f <Cmd>CocCommand explorer<CR>
+
+nnoremap <silent>    <Leader>q <Cmd>BufferPrevious<CR>
+nnoremap <silent>    <Leader>e <Cmd>BufferNext<CR>
+nnoremap <silent>    <A-1> <Cmd>BufferGoto 1<CR>
+nnoremap <silent>    <A-2> <Cmd>BufferGoto 2<CR>
+nnoremap <silent>    <A-3> <Cmd>BufferGoto 3<CR>
+nnoremap <silent>    <A-4> <Cmd>BufferGoto 4<CR>
+nnoremap <silent>    <A-5> <Cmd>BufferGoto 5<CR>
+nnoremap <silent>    <A-6> <Cmd>BufferGoto 6<CR>
+nnoremap <silent>    <A-7> <Cmd>BufferGoto 7<CR>
+nnoremap <silent>    <A-8> <Cmd>BufferGoto 8<CR>
+nnoremap <silent>    <A-9> <Cmd>BufferGoto 9<CR>
+nnoremap <silent>    <A-0> <Cmd>BufferLast<CR>
+nnoremap <silent>    <Leader>p <Cmd>BufferPin<CR>
+nnoremap <silent>    <Leader>c <Cmd>BufferClose<CR>
+nnoremap <silent>    <Leader>v <Cmd>BufferCloseAllButCurrent<CR>
 
 " Plugins keyboard shortcuts
 
@@ -133,11 +157,9 @@ nmap <leader>a  <Plug>(coc-codeaction-selected)
 
 " Remap keys for applying codeAction to the current buffer.
 nmap <leader>ac  <Plug>(coc-codeaction)
-" Apply AutoFix to problem on the current line.
-nmap <leader>qf  <Plug>(coc-fix-current)
 
 " Run the Code Lens action on the current line.
-nmap <leader>cl  <Plug>(coc-codelens-action)
+nmap <leader>al  <Plug>(coc-codelens-action)
 
 " Map function and class text objects
 " NOTE: Requires 'textDocument.documentSymbol' support from the language server.
@@ -179,23 +201,6 @@ command! -nargs=0 OR   :call     CocActionAsync('runCommand', 'editor.action.org
 " provide custom statusline: lightline.vim, vim-airline.
 set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
 
-" Mappings for CoCList
-" Show all diagnostics.
-nnoremap <silent><nowait> <space>a  :<C-u>CocList diagnostics<cr>
-" Manage extensions.
-nnoremap <silent><nowait> <space>e  :<C-u>CocList extensions<cr>
-" Show commands.
-nnoremap <silent><nowait> <space>c  :<C-u>CocList commands<cr>
-" Find symbol of current document.
-nnoremap <silent><nowait> <space>o  :<C-u>CocList outline<cr>
-" Search workspace symbols.
-nnoremap <silent><nowait> <space>s  :<C-u>CocList -I symbols<cr>
-" Do default action for next item.
-nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
-" Do default action for previous item.
-nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
-" Resume latest coc list.
-nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 
 
 " LUA CONFIGURATION

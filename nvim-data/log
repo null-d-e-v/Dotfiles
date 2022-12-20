@@ -241,3 +241,14 @@ ERR 2022-12-18T19:26:45.180 unity      terminfo_start:359: uv_tty_set_mode faile
 ERR 2022-12-18T19:30:25.391 unity      buf_updates_send_changes:250: Disabling buffer updates for dead channel 3
 ERR 2022-12-18T19:34:39.822 unity      terminfo_start:359: uv_tty_set_mode failed: invalid argument
 ERR 2022-12-18T19:52:37.797 unity      terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T19:54:39.088 nvim.5780.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T19:55:02.354 nvim.10036.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T19:55:34.177 nvim.10544.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:02:19.148 nvim.9296.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:02:43.548 nvim.13288.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:08:34.405 nvim.13144.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:09:31.188 nvim.12696.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:10:44.217 nvim.9352.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:12:56.363 nvim.11460.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:39:55.854 nvim.7816.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-19T20:42:25.306 nvim.6388.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
